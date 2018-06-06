@@ -1,0 +1,3 @@
+qrencode -o Charlie.png 'http://10.183.2.3';
+qrencode -o downloads.png 'http://10.183.2.3/downloads/';
+http://10.183.2.3

@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>CAMP 2017</title>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"> 
+        <meta name="description" content="Responsive Image Gallery with jQuery" />
+        <meta name="keywords" content="jquery, carousel, image gallery, slider, responsive, flexible, fluid, resize, css3" />
+		<meta name="author" content="Codrops" />
+		<link rel="shortcut icon" href="../favicon.ico"> 
+        <link rel="stylesheet" type="text/css" href="css/demo.css" />
+		<link rel="stylesheet" type="text/css" href="css/style.css" />
+		<link rel="stylesheet" type="text/css" href="css/elastislide.css" />
+		
+		<noscript>
+			<style>
+				.es-carousel ul{
+					display:block;
+				}
+			</style>
+		</noscript>
+		<script id="img-wrapper-tmpl" type="text/x-jquery-tmpl">	
+			<div class="rg-image-wrapper">
+				{{if itemsCount > 1}}
+					<div class="rg-image-nav">
+						<a href="#" class="rg-image-nav-prev">Previous Image</a>
+						<a href="#" class="rg-image-nav-next">Next Image</a>
+					</div>
+				{{/if}}
+				<div class="rg-image"></div>
+				<div class="rg-loading"></div>
+				<div class="rg-caption-wrapper">
+					<div class="rg-caption" style="display:none;">
+						<p></p>
+					</div>
+				</div>
+			</div>
+		</script>
+    </head>
+    <body>
+		<div class="container">
+			<div class="header">
+				
+			</div><!-- header -->
+			
+			<div class="content">
+				<h1>Camp 2017</h1>
+				<div id="rg-gallery" class="rg-gallery">
+					<div class="rg-thumbs">
+						<!-- Elastislide Carousel Thumbnail Viewer -->
+						<div class="es-carousel-wrapper">
+							<div class="es-nav">
+								<span class="es-nav-prev">Previous</span>
+								<span class="es-nav-next">Next</span>
+							</div>
+							<div class="es-carousel">
+								<ul>
+<li>	<a href="#">	<img src="images/thumbs/thumb-wooten2017-1.jpg" data-large="images/wooten2017-1.jpg" data-description="2017 # 1" />	</a>	</li>
+<li>	<a href="#">	<img src="images/thumbs/thumb-wooten2017-2.jpg" data-large="images/wooten2017-2.jpg" data-description="2017 # 2" />	</a>	</li>
+<li>	<a href="#">	<img src="images/thumbs/thumb-wooten2017-3.jpg" data-large="images/wooten2017-3.jpg" data-description="2017 # 3" />	</a>	</li>
+<li>	<a href="#">	<img src="images/thumbs/thumb-wooten2017-4.jpg" data-large="images/wooten2017-4.jpg" data-description="2017 # 4" />	</a>	</li>
+<li>	<a href="#">	<img src="images/thumbs/thumb-wooten2017-5.jpg" data-large="images/wooten2017-5.jpg" data-description="2017 # 5" />	</a>	</li>
+<li>	<a href="#">	<img src="images/thumbs/thumb-wooten2017-6.jpg" data-large="images/wooten2017-6.jpg" data-description="2017 # 6" />	</a>	</li>
+<li>	<a href="#">	<img src="images/thumbs/thumb-wooten2017-7.jpg" data-large="images/wooten2017-7.jpg" data-description="2017 # 7" />	</a>	</li>
+<li>	<a href="#">	<img src="images/thumbs/thumb-wooten2017-8.jpg" data-large="images/wooten2017-8.jpg" data-description="2017 # 8" />	</a>	</li>
+<li>	<a href="#">	<img src="images/thumbs/thumb-wooten2017-9.jpg" data-large="images/wooten2017-9.jpg" data-description="2017 # 9" />	</a>	</li>
+<li>	<a href="#">	<img src="images/thumbs/thumb-wooten2017-10.jpg" data-large="images/wooten2017-10.jpg" data-description="2017 # 10" />	</a>	</li>
+<li>	<a href="#">	<img src="images/thumbs/thumb-wooten2017-11.jpg" data-large="images/wooten2017-11.jpg" data-description="2017 # 11" />	</a>	</li>
+<li>	<a href="#">	<img src="images/thumbs/thumb-wooten2017-12.jpg" data-large="images/wooten2017-12.jpg" data-description="2017 # 12" />	</a>	</li>
+<li>	<a href="#">	<img src="images/thumbs/thumb-wooten2017-13.jpg" data-large="images/wooten2017-13.jpg" data-description="2017 # 13" />	</a>	</li>
+<li>	<a href="#">	<img src="images/thumbs/thumb-wooten2017-14.jpg" data-large="images/wooten2017-14.jpg" data-description="2017 # 14" />	</a>	</li>
+<li>	<a href="#">	<img src="images/thumbs/thumb-wooten2017-15.jpg" data-large="images/wooten2017-15.jpg" data-description="2017 # 15" />	</a>	</li>
+<li>	<a href="#">	<img src="images/thumbs/thumb-wooten2017-16.jpg" data-large="images/wooten2017-16.jpg" data-description="2017 # 16" />	</a>	</li>
+<li>	<a href="#">	<img src="images/thumbs/thumb-wooten2017-17.jpg" data-large="images/wooten2017-17.jpg" data-description="2017 # 17" />	</a>	</li>
+<li>	<a href="#">	<img src="images/thumbs/thumb-wooten2017-18.jpg" data-large="images/wooten2017-18.jpg" data-description="2017 # 18" />	</a>	</li>
+<li>	<a href="#">	<img src="images/thumbs/thumb-wooten2017-19.jpg" data-large="images/wooten2017-19.jpg" data-description="2017 # 19" />	</a>	</li>
+<li>	<a href="#">	<img src="images/thumbs/thumb-wooten2017-20.jpg" data-large="images/wooten2017-20.jpg" data-description="2017 # 20" />	</a>	</li>
+<li>	<a href="#">	<img src="images/thumbs/thumb-wooten2017-21.jpg" data-large="images/wooten2017-21.jpg" data-description="2017 # 21" />	</a>	</li>
+<li>	<a href="#">	<img src="images/thumbs/thumb-wooten2017-22.jpg" data-large="images/wooten2017-22.jpg" data-description="2017 # 22" />	</a>	</li>
+<li>	<a href="#">	<img src="images/thumbs/thumb-wooten2017-23.jpg" data-large="images/wooten2017-23.jpg" data-description="2017 # 23" />	</a>	</li>
+<li>	<a href="#">	<img src="images/thumbs/thumb-wooten2017-24.jpg" data-large="images/wooten2017-24.jpg" data-description="2017 # 24" />	</a>	</li>
+<li>	<a href="#">	<img src="images/thumbs/thumb-wooten2017-25.jpg" data-large="images/wooten2017-25.jpg" data-description="2017 # 25" />	</a>	</li>
+<li>	<a href="#">	<img src="images/thumbs/thumb-wooten2017-26.jpg" data-large="images/wooten2017-26.jpg" data-description="2017 # 26" />	</a>	</li>
+<li>	<a href="#">	<img src="images/thumbs/thumb-wooten2017-27.jpg" data-large="images/wooten2017-27.jpg" data-description="2017 # 27" />	</a>	</li>
+<li>	<a href="#">	<img src="images/thumbs/thumb-wooten2017-28.jpg" data-large="images/wooten2017-28.jpg" data-description="2017 # 28" />	</a>	</li>
+<li>	<a href="#">	<img src="images/thumbs/thumb-wooten2017-29.jpg" data-large="images/wooten2017-29.jpg" data-description="2017 # 29" />	</a>	</li>
+<li>	<a href="#">	<img src="images/thumbs/thumb-wooten2017-30.jpg" data-large="images/wooten2017-30.jpg" data-description="2017 # 30" />	</a>	</li>
+<li>	<a href="#">	<img src="images/thumbs/thumb-wooten2017-31.jpg" data-large="images/wooten2017-31.jpg" data-description="2017 # 31" />	</a>	</li>
+<li>	<a href="#">	<img src="images/thumbs/thumb-wooten2017-32.jpg" data-large="images/wooten2017-32.jpg" data-description="2017 # 32" />	</a>	</li>
+<li>	<a href="#">	<img src="images/thumbs/thumb-wooten2017-33.jpg" data-large="images/wooten2017-33.jpg" data-description="2017 # 33" />	</a>	</li>
+<li>	<a href="#">	<img src="images/thumbs/thumb-wooten2017-34.jpg" data-large="images/wooten2017-34.jpg" data-description="2017 # 34" />	</a>	</li>
+<li>	<a href="#">	<img src="images/thumbs/thumb-wooten2017-35.jpg" data-large="images/wooten2017-35.jpg" data-description="2017 # 35" />	</a>	</li>
+<li>	<a href="#">	<img src="images/thumbs/thumb-wooten2017-36.jpg" data-large="images/wooten2017-36.jpg" data-description="2017 # 36" />	</a>	</li>
+<li>	<a href="#">	<img src="images/thumbs/thumb-wooten2017-37.jpg" data-large="images/wooten2017-37.jpg" data-description="2017 # 37" />	</a>	</li>
+<li>	<a href="#">	<img src="images/thumbs/thumb-wooten2017-38.jpg" data-large="images/wooten2017-38.jpg" data-description="2017 # 38" />	</a>	</li>
+<li>	<a href="#">	<img src="images/thumbs/thumb-wooten2017-39.jpg" data-large="images/wooten2017-39.jpg" data-description="2017 # 39" />	</a>	</li>
+<li>	<a href="#">	<img src="images/thumbs/thumb-wooten2017-40.jpg" data-large="images/wooten2017-40.jpg" data-description="2017 # 40" />	</a>	</li>
+<li>	<a href="#">	<img src="images/thumbs/thumb-wooten2017-41.jpg" data-large="images/wooten2017-41.jpg" data-description="2017 # 41" />	</a>	</li>
+<li>	<a href="#">	<img src="images/thumbs/thumb-wooten2017-42.jpg" data-large="images/wooten2017-42.jpg" data-description="2017 # 42" />	</a>	</li>
+<li>	<a href="#">	<img src="images/thumbs/thumb-wooten2017-43.jpg" data-large="images/wooten2017-43.jpg" data-description="2017 # 43" />	</a>	</li>
+<li>	<a href="#">	<img src="images/thumbs/thumb-wooten2017-44.jpg" data-large="images/wooten2017-44.jpg" data-description="2017 # 44" />	</a>	</li>
+<li>	<a href="#">	<img src="images/thumbs/thumb-wooten2017-45.jpg" data-large="images/wooten2017-45.jpg" data-description="2017 # 45" />	</a>	</li>
+<li>	<a href="#">	<img src="images/thumbs/thumb-wooten2017-46.jpg" data-large="images/wooten2017-46.jpg" data-description="2017 # 46" />	</a>	</li>
+<li>	<a href="#">	<img src="images/thumbs/thumb-wooten2017-47.jpg" data-large="images/wooten2017-47.jpg" data-description="2017 # 47" />	</a>	</li>
+<li>	<a href="#">	<img src="images/thumbs/thumb-wooten2017-48.jpg" data-large="images/wooten2017-48.jpg" data-description="2017 # 48" />	</a>	</li>
+<li>	<a href="#">	<img src="images/thumbs/thumb-wooten2017-49.jpg" data-large="images/wooten2017-49.jpg" data-description="2017 # 49" />	</a>	</li>
+<li>	<a href="#">	<img src="images/thumbs/thumb-wooten2017-50.jpg" data-large="images/wooten2017-50.jpg" data-description="2017 # 50" />	</a>	</li>
+<li>	<a href="#">	<img src="images/thumbs/thumb-wooten2017-51.jpg" data-large="images/wooten2017-51.jpg" data-description="2017 # 51" />	</a>	</li>
+<li>	<a href="#">	<img src="images/thumbs/thumb-wooten2017-52.jpg" data-large="images/wooten2017-52.jpg" data-description="2017 # 52" />	</a>	</li>
+<li>	<a href="#">	<img src="images/thumbs/thumb-wooten2017-53.jpg" data-large="images/wooten2017-53.jpg" data-description="2017 # 53" />	</a>	</li>
+<li>	<a href="#">	<img src="images/thumbs/thumb-wooten2017-54.jpg" data-large="images/wooten2017-54.jpg" data-description="2017 # 54" />	</a>	</li>
+<li>	<a href="#">	<img src="images/thumbs/thumb-wooten2017-55.jpg" data-large="images/wooten2017-55.jpg" data-description="2017 # 55" />	</a>	</li>
+<li>	<a href="#">	<img src="images/thumbs/thumb-wooten2017-56.jpg" data-large="images/wooten2017-56.jpg" data-description="2017 # 56" />	</a>	</li>
+<li>	<a href="#">	<img src="images/thumbs/thumb-wooten2017-57.jpg" data-large="images/wooten2017-57.jpg" data-description="2017 # 57" />	</a>	</li>
+<li>	<a href="#">	<img src="images/thumbs/thumb-wooten2017-58.jpg" data-large="images/wooten2017-58.jpg" data-description="2017 # 58" />	</a>	</li>
+<li>	<a href="#">	<img src="images/thumbs/thumb-wooten2017-59.jpg" data-large="images/wooten2017-59.jpg" data-description="2017 # 59" />	</a>	</li>
+<li>	<a href="#">	<img src="images/thumbs/thumb-wooten2017-60.jpg" data-large="images/wooten2017-60.jpg" data-description="2017 # 60" />	</a>	</li>
+<li>	<a href="#">	<img src="images/thumbs/thumb-wooten2017-61.jpg" data-large="images/wooten2017-61.jpg" data-description="2017 # 61" />	</a>	</li>
+<li>	<a href="#">	<img src="images/thumbs/thumb-wooten2017-62.jpg" data-large="images/wooten2017-62.jpg" data-description="2017 # 62" />	</a>	</li>
+<li>	<a href="#">	<img src="images/thumbs/thumb-wooten2017-63.jpg" data-large="images/wooten2017-63.jpg" data-description="2017 # 63" />	</a>	</li>
+<li>	<a href="#">	<img src="images/thumbs/thumb-wooten2017-64.jpg" data-large="images/wooten2017-64.jpg" data-description="2017 # 64" />	</a>	</li>
+<li>	<a href="#">	<img src="images/thumbs/thumb-wooten2017-65.jpg" data-large="images/wooten2017-65.jpg" data-description="2017 # 65" />	</a>	</li>
+<li>	<a href="#">	<img src="images/thumbs/thumb-wooten2017-66.jpg" data-large="images/wooten2017-66.jpg" data-description="2017 # 66" />	</a>	</li>
+<li>	<a href="#">	<img src="images/thumbs/thumb-wooten2017-67.jpg" data-large="images/wooten2017-67.jpg" data-description="2017 # 67" />	</a>	</li>
+<li>	<a href="#">	<img src="images/thumbs/thumb-wooten2017-68.jpg" data-large="images/wooten2017-68.jpg" data-description="2017 # 68" />	</a>	</li>
+<li>	<a href="#">	<img src="images/thumbs/thumb-wooten2017-69.jpg" data-large="images/wooten2017-69.jpg" data-description="2017 # 69" />	</a>	</li>
+<li>	<a href="#">	<img src="images/thumbs/thumb-wooten2017-70.jpg" data-large="images/wooten2017-70.jpg" data-description="2017 # 70" />	</a>	</li>
+<li>	<a href="#">	<img src="images/thumbs/thumb-wooten2017-71.jpg" data-large="images/wooten2017-71.jpg" data-description="2017 # 71" />	</a>	</li>
+<li>	<a href="#">	<img src="images/thumbs/thumb-wooten2017-72.jpg" data-large="images/wooten2017-72.jpg" data-description="2017 # 72" />	</a>	</li>
+<li>	<a href="#">	<img src="images/thumbs/thumb-wooten2017-73.jpg" data-large="images/wooten2017-73.jpg" data-description="2017 # 73" />	</a>	</li>
+<li>	<a href="#">	<img src="images/thumbs/thumb-wooten2017-74.jpg" data-large="images/wooten2017-74.jpg" data-description="2017 # 74" />	</a>	</li>
+<li>	<a href="#">	<img src="images/thumbs/thumb-wooten2017-75.jpg" data-large="images/wooten2017-75.jpg" data-description="2017 # 75" />	</a>	</li>
+<li>	<a href="#">	<img src="images/thumbs/thumb-wooten2017-76.jpg" data-large="images/wooten2017-76.jpg" data-description="2017 # 76" />	</a>	</li>
+<li>	<a href="#">	<img src="images/thumbs/thumb-wooten2017-77.jpg" data-large="images/wooten2017-77.jpg" data-description="2017 # 77" />	</a>	</li>
+<li>	<a href="#">	<img src="images/thumbs/thumb-wooten2017-78.jpg" data-large="images/wooten2017-78.jpg" data-description="2017 # 78" />	</a>	</li>
+<li>	<a href="#">	<img src="images/thumbs/thumb-wooten2017-79.jpg" data-large="images/wooten2017-79.jpg" data-description="2017 # 79" />	</a>	</li>
+<li>	<a href="#">	<img src="images/thumbs/thumb-wooten2017-80.jpg" data-large="images/wooten2017-80.jpg" data-description="2017 # 80" />	</a>	</li>
+<li>	<a href="#">	<img src="images/thumbs/thumb-wooten2017-81.jpg" data-large="images/wooten2017-81.jpg" data-description="2017 # 81" />	</a>	</li>
+<li>	<a href="#">	<img src="images/thumbs/thumb-wooten2017-82.jpg" data-large="images/wooten2017-82.jpg" data-description="2017 # 82" />	</a>	</li>
+<li>	<a href="#">	<img src="images/thumbs/thumb-wooten2017-83.jpg" data-large="images/wooten2017-83.jpg" data-description="2017 # 83" />	</a>	</li>
+<li>	<a href="#">	<img src="images/thumbs/thumb-wooten2017-84.jpg" data-large="images/wooten2017-84.jpg" data-description="2017 # 84" />	</a>	</li>
+<li>	<a href="#">	<img src="images/thumbs/thumb-wooten2017-85.jpg" data-large="images/wooten2017-85.jpg" data-description="2017 # 85" />	</a>	</li>
+<li>	<a href="#">	<img src="images/thumbs/thumb-wooten2017-86.jpg" data-large="images/wooten2017-86.jpg" data-description="2017 # 86" />	</a>	</li>
+<li>	<a href="#">	<img src="images/thumbs/thumb-wooten2017-87.jpg" data-large="images/wooten2017-87.jpg" data-description="2017 # 87" />	</a>	</li>
+<li>	<a href="#">	<img src="images/thumbs/thumb-wooten2017-88.jpg" data-large="images/wooten2017-88.jpg" data-description="2017 # 88" />	</a>	</li>
+<li>	<a href="#">	<img src="images/thumbs/thumb-wooten2017-89.jpg" data-large="images/wooten2017-89.jpg" data-description="2017 # 89" />	</a>	</li>
+<li>	<a href="#">	<img src="images/thumbs/thumb-wooten2017-90.jpg" data-large="images/wooten2017-90.jpg" data-description="2017 # 90" />	</a>	</li>
+<li>	<a href="#">	<img src="images/thumbs/thumb-wooten2017-91.jpg" data-large="images/wooten2017-91.jpg" data-description="2017 # 91" />	</a>	</li>
+<li>	<a href="#">	<img src="images/thumbs/thumb-wooten2017-92.jpg" data-large="images/wooten2017-92.jpg" data-description="2017 # 92" />	</a>	</li>
+
+
+
+								</ul>
+							</div>
+						</div>
+						<!-- End Elastislide Carousel Thumbnail Viewer -->
+					</div><!-- rg-thumbs -->
+				</div><!-- rg-gallery -->
+			</div><!-- content -->
+		</div><!-- container -->
+		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+		<script type="text/javascript" src="js/jquery.tmpl.min.js"></script>
+		<script type="text/javascript" src="js/jquery.easing.1.3.js"></script>
+		<script type="text/javascript" src="js/jquery.elastislide.js"></script>
+		<script type="text/javascript" src="js/gallery.js"></script>
+    </body>
+</html>
+
+

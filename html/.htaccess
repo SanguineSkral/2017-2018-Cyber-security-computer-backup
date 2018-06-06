@@ -1,0 +1,8 @@
+Options +Indexes
+IndexOptions IgnoreCase FancyIndexing FoldersFirst NameWidth=* DescriptionWidth=* SuppressHTMLPreamble
+HeaderName .h.html
+ReadmeName .f.html
+
+php_flag display_startup_errors on
+php_flag display_errors on
+php_flag html_errors on

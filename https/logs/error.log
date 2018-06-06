@@ -1,0 +1,456 @@
+[Tue Mar 13 13:41:46.408299 2018] [ssl:warn] [pid 3419] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Mar 13 13:41:46.408324 2018] [ssl:warn] [pid 3419] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Mar 14 11:42:40.836863 2018] [ssl:warn] [pid 589] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Mar 14 11:42:40.870425 2018] [ssl:warn] [pid 589] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Mar 14 11:42:41.903641 2018] [ssl:warn] [pid 761] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Mar 14 11:42:41.903674 2018] [ssl:warn] [pid 761] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Mar 14 11:48:00.589164 2018] [ssl:warn] [pid 761] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Mar 14 11:48:00.589184 2018] [ssl:warn] [pid 761] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Mar 15 11:46:43.195002 2018] [ssl:warn] [pid 634] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Mar 15 11:46:43.211814 2018] [ssl:warn] [pid 634] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Mar 15 11:46:44.072176 2018] [ssl:warn] [pid 727] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Mar 15 11:46:44.072200 2018] [ssl:warn] [pid 727] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Mar 16 11:30:13.936641 2018] [ssl:warn] [pid 625] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Mar 16 11:30:14.194919 2018] [ssl:warn] [pid 625] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Mar 16 11:30:15.792649 2018] [ssl:warn] [pid 803] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Mar 16 11:30:15.792674 2018] [ssl:warn] [pid 803] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Mar 16 11:35:28.335002 2018] [ssl:warn] [pid 803] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Mar 16 11:35:28.335023 2018] [ssl:warn] [pid 803] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 19 11:27:39.915734 2018] [ssl:warn] [pid 688] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Mar 19 11:27:39.932484 2018] [ssl:warn] [pid 688] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 19 11:27:40.437932 2018] [ssl:warn] [pid 750] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Mar 19 11:27:40.437957 2018] [ssl:warn] [pid 750] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Mar 20 11:25:23.680749 2018] [ssl:warn] [pid 627] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Mar 20 11:25:23.747495 2018] [ssl:warn] [pid 627] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Mar 20 11:25:24.108836 2018] [ssl:warn] [pid 732] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Mar 20 11:25:24.108859 2018] [ssl:warn] [pid 732] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Mar 20 11:30:37.351434 2018] [ssl:warn] [pid 732] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Mar 20 11:30:37.351451 2018] [ssl:warn] [pid 732] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Mar 21 11:24:09.603156 2018] [ssl:warn] [pid 568] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Mar 21 11:24:09.769627 2018] [ssl:warn] [pid 568] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Mar 21 11:24:10.244562 2018] [ssl:warn] [pid 806] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Mar 21 11:24:10.244586 2018] [ssl:warn] [pid 806] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Mar 21 11:29:31.757979 2018] [ssl:warn] [pid 806] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Mar 21 11:29:31.758001 2018] [ssl:warn] [pid 806] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Mar 21 12:26:18.244077 2018] [authz_core:error] [pid 1879] [client 10.183.2.1:49958] AH01630: client denied by server configuration: /home/wgp/https/html/.htaccess, referer: https://10.183.2.1/html/
+[Wed Mar 21 13:21:16.183135 2018] [:error] [pid 2550] [client 10.183.2.1:51372] PHP Notice:  Undefined variable: hostname in /home/wgp/https/db/pushhits.php on line 5
+[Wed Mar 21 13:21:16.183152 2018] [:error] [pid 2550] [client 10.183.2.1:51372] PHP Notice:  Undefined variable: database in /home/wgp/https/db/pushhits.php on line 5
+[Wed Mar 21 13:21:16.183154 2018] [:error] [pid 2550] [client 10.183.2.1:51372] PHP Notice:  Undefined variable: username in /home/wgp/https/db/pushhits.php on line 5
+[Wed Mar 21 13:21:16.183158 2018] [:error] [pid 2550] [client 10.183.2.1:51372] PHP Notice:  Undefined variable: hostname in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:21:16.183160 2018] [:error] [pid 2550] [client 10.183.2.1:51372] PHP Notice:  Undefined variable: username in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:21:16.183162 2018] [:error] [pid 2550] [client 10.183.2.1:51372] PHP Notice:  Undefined variable: password in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:21:16.183332 2018] [:error] [pid 2550] [client 10.183.2.1:51372] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:21:17.012800 2018] [:error] [pid 2550] [client 10.183.2.1:51372] PHP Notice:  Undefined variable: hostname in /home/wgp/https/db/pushhits.php on line 5
+[Wed Mar 21 13:21:17.012813 2018] [:error] [pid 2550] [client 10.183.2.1:51372] PHP Notice:  Undefined variable: database in /home/wgp/https/db/pushhits.php on line 5
+[Wed Mar 21 13:21:17.012815 2018] [:error] [pid 2550] [client 10.183.2.1:51372] PHP Notice:  Undefined variable: username in /home/wgp/https/db/pushhits.php on line 5
+[Wed Mar 21 13:21:17.012819 2018] [:error] [pid 2550] [client 10.183.2.1:51372] PHP Notice:  Undefined variable: hostname in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:21:17.012821 2018] [:error] [pid 2550] [client 10.183.2.1:51372] PHP Notice:  Undefined variable: username in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:21:17.012824 2018] [:error] [pid 2550] [client 10.183.2.1:51372] PHP Notice:  Undefined variable: password in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:21:17.013048 2018] [:error] [pid 2550] [client 10.183.2.1:51372] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:21:17.738710 2018] [:error] [pid 2550] [client 10.183.2.1:51372] PHP Notice:  Undefined variable: hostname in /home/wgp/https/db/pushhits.php on line 5
+[Wed Mar 21 13:21:17.738720 2018] [:error] [pid 2550] [client 10.183.2.1:51372] PHP Notice:  Undefined variable: database in /home/wgp/https/db/pushhits.php on line 5
+[Wed Mar 21 13:21:17.738723 2018] [:error] [pid 2550] [client 10.183.2.1:51372] PHP Notice:  Undefined variable: username in /home/wgp/https/db/pushhits.php on line 5
+[Wed Mar 21 13:21:17.738726 2018] [:error] [pid 2550] [client 10.183.2.1:51372] PHP Notice:  Undefined variable: hostname in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:21:17.738728 2018] [:error] [pid 2550] [client 10.183.2.1:51372] PHP Notice:  Undefined variable: username in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:21:17.738730 2018] [:error] [pid 2550] [client 10.183.2.1:51372] PHP Notice:  Undefined variable: password in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:21:17.738875 2018] [:error] [pid 2550] [client 10.183.2.1:51372] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:21:18.554649 2018] [:error] [pid 2550] [client 10.183.2.1:51372] PHP Notice:  Undefined variable: hostname in /home/wgp/https/db/pushhits.php on line 5
+[Wed Mar 21 13:21:18.554661 2018] [:error] [pid 2550] [client 10.183.2.1:51372] PHP Notice:  Undefined variable: database in /home/wgp/https/db/pushhits.php on line 5
+[Wed Mar 21 13:21:18.554663 2018] [:error] [pid 2550] [client 10.183.2.1:51372] PHP Notice:  Undefined variable: username in /home/wgp/https/db/pushhits.php on line 5
+[Wed Mar 21 13:21:18.554667 2018] [:error] [pid 2550] [client 10.183.2.1:51372] PHP Notice:  Undefined variable: hostname in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:21:18.554669 2018] [:error] [pid 2550] [client 10.183.2.1:51372] PHP Notice:  Undefined variable: username in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:21:18.554670 2018] [:error] [pid 2550] [client 10.183.2.1:51372] PHP Notice:  Undefined variable: password in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:21:18.554814 2018] [:error] [pid 2550] [client 10.183.2.1:51372] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:21:19.014500 2018] [:error] [pid 2550] [client 10.183.2.1:51372] PHP Notice:  Undefined variable: hostname in /home/wgp/https/db/pushhits.php on line 5
+[Wed Mar 21 13:21:19.014512 2018] [:error] [pid 2550] [client 10.183.2.1:51372] PHP Notice:  Undefined variable: database in /home/wgp/https/db/pushhits.php on line 5
+[Wed Mar 21 13:21:19.014514 2018] [:error] [pid 2550] [client 10.183.2.1:51372] PHP Notice:  Undefined variable: username in /home/wgp/https/db/pushhits.php on line 5
+[Wed Mar 21 13:21:19.014517 2018] [:error] [pid 2550] [client 10.183.2.1:51372] PHP Notice:  Undefined variable: hostname in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:21:19.014519 2018] [:error] [pid 2550] [client 10.183.2.1:51372] PHP Notice:  Undefined variable: username in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:21:19.014521 2018] [:error] [pid 2550] [client 10.183.2.1:51372] PHP Notice:  Undefined variable: password in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:21:19.014690 2018] [:error] [pid 2550] [client 10.183.2.1:51372] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:21:19.466194 2018] [:error] [pid 2550] [client 10.183.2.1:51372] PHP Notice:  Undefined variable: hostname in /home/wgp/https/db/pushhits.php on line 5
+[Wed Mar 21 13:21:19.466214 2018] [:error] [pid 2550] [client 10.183.2.1:51372] PHP Notice:  Undefined variable: database in /home/wgp/https/db/pushhits.php on line 5
+[Wed Mar 21 13:21:19.466216 2018] [:error] [pid 2550] [client 10.183.2.1:51372] PHP Notice:  Undefined variable: username in /home/wgp/https/db/pushhits.php on line 5
+[Wed Mar 21 13:21:19.466226 2018] [:error] [pid 2550] [client 10.183.2.1:51372] PHP Notice:  Undefined variable: hostname in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:21:19.466228 2018] [:error] [pid 2550] [client 10.183.2.1:51372] PHP Notice:  Undefined variable: username in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:21:19.466230 2018] [:error] [pid 2550] [client 10.183.2.1:51372] PHP Notice:  Undefined variable: password in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:21:19.466408 2018] [:error] [pid 2550] [client 10.183.2.1:51372] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:24:54.001187 2018] [:error] [pid 2549] [client 10.183.2.1:51418] PHP Notice:  Undefined variable: hostname in /home/wgp/https/db/pushhits.php on line 5
+[Wed Mar 21 13:24:54.001205 2018] [:error] [pid 2549] [client 10.183.2.1:51418] PHP Notice:  Undefined variable: database in /home/wgp/https/db/pushhits.php on line 5
+[Wed Mar 21 13:24:54.001208 2018] [:error] [pid 2549] [client 10.183.2.1:51418] PHP Notice:  Undefined variable: username in /home/wgp/https/db/pushhits.php on line 5
+[Wed Mar 21 13:24:54.001214 2018] [:error] [pid 2549] [client 10.183.2.1:51418] PHP Notice:  Undefined variable: hostname in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:24:54.001216 2018] [:error] [pid 2549] [client 10.183.2.1:51418] PHP Notice:  Undefined variable: username in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:24:54.001218 2018] [:error] [pid 2549] [client 10.183.2.1:51418] PHP Notice:  Undefined variable: password in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:24:54.001375 2018] [:error] [pid 2549] [client 10.183.2.1:51418] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:24:54.389477 2018] [:error] [pid 2549] [client 10.183.2.1:51418] PHP Notice:  Undefined variable: hostname in /home/wgp/https/db/pushhits.php on line 5
+[Wed Mar 21 13:24:54.389488 2018] [:error] [pid 2549] [client 10.183.2.1:51418] PHP Notice:  Undefined variable: database in /home/wgp/https/db/pushhits.php on line 5
+[Wed Mar 21 13:24:54.389490 2018] [:error] [pid 2549] [client 10.183.2.1:51418] PHP Notice:  Undefined variable: username in /home/wgp/https/db/pushhits.php on line 5
+[Wed Mar 21 13:24:54.389494 2018] [:error] [pid 2549] [client 10.183.2.1:51418] PHP Notice:  Undefined variable: hostname in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:24:54.389496 2018] [:error] [pid 2549] [client 10.183.2.1:51418] PHP Notice:  Undefined variable: username in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:24:54.389498 2018] [:error] [pid 2549] [client 10.183.2.1:51418] PHP Notice:  Undefined variable: password in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:24:54.389644 2018] [:error] [pid 2549] [client 10.183.2.1:51418] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:24:54.621377 2018] [:error] [pid 2549] [client 10.183.2.1:51418] PHP Notice:  Undefined variable: hostname in /home/wgp/https/db/pushhits.php on line 5
+[Wed Mar 21 13:24:54.621389 2018] [:error] [pid 2549] [client 10.183.2.1:51418] PHP Notice:  Undefined variable: database in /home/wgp/https/db/pushhits.php on line 5
+[Wed Mar 21 13:24:54.621391 2018] [:error] [pid 2549] [client 10.183.2.1:51418] PHP Notice:  Undefined variable: username in /home/wgp/https/db/pushhits.php on line 5
+[Wed Mar 21 13:24:54.621395 2018] [:error] [pid 2549] [client 10.183.2.1:51418] PHP Notice:  Undefined variable: hostname in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:24:54.621397 2018] [:error] [pid 2549] [client 10.183.2.1:51418] PHP Notice:  Undefined variable: username in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:24:54.621409 2018] [:error] [pid 2549] [client 10.183.2.1:51418] PHP Notice:  Undefined variable: password in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:24:54.621555 2018] [:error] [pid 2549] [client 10.183.2.1:51418] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:26:02.156156 2018] [:error] [pid 1880] [client 10.183.2.1:51446] PHP Notice:  Undefined variable: hostname in /home/wgp/https/db/pushhits.php on line 5
+[Wed Mar 21 13:26:02.156173 2018] [:error] [pid 1880] [client 10.183.2.1:51446] PHP Notice:  Undefined variable: database in /home/wgp/https/db/pushhits.php on line 5
+[Wed Mar 21 13:26:02.156176 2018] [:error] [pid 1880] [client 10.183.2.1:51446] PHP Notice:  Undefined variable: username in /home/wgp/https/db/pushhits.php on line 5
+[Wed Mar 21 13:26:02.156179 2018] [:error] [pid 1880] [client 10.183.2.1:51446] PHP Notice:  Undefined variable: hostname in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:26:02.156181 2018] [:error] [pid 1880] [client 10.183.2.1:51446] PHP Notice:  Undefined variable: username in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:26:02.156183 2018] [:error] [pid 1880] [client 10.183.2.1:51446] PHP Notice:  Undefined variable: password in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:26:02.156329 2018] [:error] [pid 1880] [client 10.183.2.1:51446] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:29:11.710518 2018] [:error] [pid 2549] [client 10.183.2.1:51470] PHP Notice:  Undefined variable: hostname in /home/wgp/https/db/pushhits.php on line 5
+[Wed Mar 21 13:29:11.710532 2018] [:error] [pid 2549] [client 10.183.2.1:51470] PHP Notice:  Undefined variable: database in /home/wgp/https/db/pushhits.php on line 5
+[Wed Mar 21 13:29:11.710535 2018] [:error] [pid 2549] [client 10.183.2.1:51470] PHP Notice:  Undefined variable: username in /home/wgp/https/db/pushhits.php on line 5
+[Wed Mar 21 13:29:11.710538 2018] [:error] [pid 2549] [client 10.183.2.1:51470] PHP Notice:  Undefined variable: hostname in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:29:11.710541 2018] [:error] [pid 2549] [client 10.183.2.1:51470] PHP Notice:  Undefined variable: username in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:29:11.710543 2018] [:error] [pid 2549] [client 10.183.2.1:51470] PHP Notice:  Undefined variable: password in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:29:11.710884 2018] [:error] [pid 2549] [client 10.183.2.1:51470] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:29:12.199458 2018] [:error] [pid 2549] [client 10.183.2.1:51470] PHP Notice:  Undefined variable: hostname in /home/wgp/https/db/pushhits.php on line 5
+[Wed Mar 21 13:29:12.199471 2018] [:error] [pid 2549] [client 10.183.2.1:51470] PHP Notice:  Undefined variable: database in /home/wgp/https/db/pushhits.php on line 5
+[Wed Mar 21 13:29:12.199473 2018] [:error] [pid 2549] [client 10.183.2.1:51470] PHP Notice:  Undefined variable: username in /home/wgp/https/db/pushhits.php on line 5
+[Wed Mar 21 13:29:12.199477 2018] [:error] [pid 2549] [client 10.183.2.1:51470] PHP Notice:  Undefined variable: hostname in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:29:12.199479 2018] [:error] [pid 2549] [client 10.183.2.1:51470] PHP Notice:  Undefined variable: username in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:29:12.199481 2018] [:error] [pid 2549] [client 10.183.2.1:51470] PHP Notice:  Undefined variable: password in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:29:12.199704 2018] [:error] [pid 2549] [client 10.183.2.1:51470] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:29:22.747731 2018] [:error] [pid 2732] [client 10.183.2.1:51472] PHP Notice:  Undefined variable: hostname in /home/wgp/https/db/pushhits.php on line 5
+[Wed Mar 21 13:29:22.747748 2018] [:error] [pid 2732] [client 10.183.2.1:51472] PHP Notice:  Undefined variable: database in /home/wgp/https/db/pushhits.php on line 5
+[Wed Mar 21 13:29:22.747750 2018] [:error] [pid 2732] [client 10.183.2.1:51472] PHP Notice:  Undefined variable: username in /home/wgp/https/db/pushhits.php on line 5
+[Wed Mar 21 13:29:22.747755 2018] [:error] [pid 2732] [client 10.183.2.1:51472] PHP Notice:  Undefined variable: hostname in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:29:22.747757 2018] [:error] [pid 2732] [client 10.183.2.1:51472] PHP Notice:  Undefined variable: username in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:29:22.747759 2018] [:error] [pid 2732] [client 10.183.2.1:51472] PHP Notice:  Undefined variable: password in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:29:22.747937 2018] [:error] [pid 2732] [client 10.183.2.1:51472] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:29:25.867762 2018] [:error] [pid 2732] [client 10.183.2.1:51472] PHP Notice:  Undefined variable: hostname in /home/wgp/https/db/pushhits.php on line 5
+[Wed Mar 21 13:29:25.867774 2018] [:error] [pid 2732] [client 10.183.2.1:51472] PHP Notice:  Undefined variable: database in /home/wgp/https/db/pushhits.php on line 5
+[Wed Mar 21 13:29:25.867776 2018] [:error] [pid 2732] [client 10.183.2.1:51472] PHP Notice:  Undefined variable: username in /home/wgp/https/db/pushhits.php on line 5
+[Wed Mar 21 13:29:25.867779 2018] [:error] [pid 2732] [client 10.183.2.1:51472] PHP Notice:  Undefined variable: hostname in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:29:25.867781 2018] [:error] [pid 2732] [client 10.183.2.1:51472] PHP Notice:  Undefined variable: username in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:29:25.867783 2018] [:error] [pid 2732] [client 10.183.2.1:51472] PHP Notice:  Undefined variable: password in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:29:25.867917 2018] [:error] [pid 2732] [client 10.183.2.1:51472] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:29:36.235029 2018] [:error] [pid 2733] [client 10.183.2.1:51476] PHP Notice:  Undefined variable: hostname in /home/wgp/https/db/pushhits.php on line 5
+[Wed Mar 21 13:29:36.235049 2018] [:error] [pid 2733] [client 10.183.2.1:51476] PHP Notice:  Undefined variable: database in /home/wgp/https/db/pushhits.php on line 5
+[Wed Mar 21 13:29:36.235052 2018] [:error] [pid 2733] [client 10.183.2.1:51476] PHP Notice:  Undefined variable: username in /home/wgp/https/db/pushhits.php on line 5
+[Wed Mar 21 13:29:36.235057 2018] [:error] [pid 2733] [client 10.183.2.1:51476] PHP Notice:  Undefined variable: hostname in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:29:36.235059 2018] [:error] [pid 2733] [client 10.183.2.1:51476] PHP Notice:  Undefined variable: username in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:29:36.235061 2018] [:error] [pid 2733] [client 10.183.2.1:51476] PHP Notice:  Undefined variable: password in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:29:36.235253 2018] [:error] [pid 2733] [client 10.183.2.1:51476] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:29:52.297723 2018] [:error] [pid 2358] [client 10.183.2.1:51480] PHP Notice:  Undefined variable: hostname in /home/wgp/https/db/pushhits.php on line 5
+[Wed Mar 21 13:29:52.297742 2018] [:error] [pid 2358] [client 10.183.2.1:51480] PHP Notice:  Undefined variable: database in /home/wgp/https/db/pushhits.php on line 5
+[Wed Mar 21 13:29:52.297745 2018] [:error] [pid 2358] [client 10.183.2.1:51480] PHP Notice:  Undefined variable: username in /home/wgp/https/db/pushhits.php on line 5
+[Wed Mar 21 13:29:52.297756 2018] [:error] [pid 2358] [client 10.183.2.1:51480] PHP Notice:  Undefined variable: hostname in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:29:52.297758 2018] [:error] [pid 2358] [client 10.183.2.1:51480] PHP Notice:  Undefined variable: username in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:29:52.297760 2018] [:error] [pid 2358] [client 10.183.2.1:51480] PHP Notice:  Undefined variable: password in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:29:52.297918 2018] [:error] [pid 2358] [client 10.183.2.1:51480] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:29:53.982821 2018] [:error] [pid 2358] [client 10.183.2.1:51480] PHP Notice:  Undefined variable: hostname in /home/wgp/https/db/pushhits.php on line 5
+[Wed Mar 21 13:29:53.982832 2018] [:error] [pid 2358] [client 10.183.2.1:51480] PHP Notice:  Undefined variable: database in /home/wgp/https/db/pushhits.php on line 5
+[Wed Mar 21 13:29:53.982835 2018] [:error] [pid 2358] [client 10.183.2.1:51480] PHP Notice:  Undefined variable: username in /home/wgp/https/db/pushhits.php on line 5
+[Wed Mar 21 13:29:53.982838 2018] [:error] [pid 2358] [client 10.183.2.1:51480] PHP Notice:  Undefined variable: hostname in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:29:53.982839 2018] [:error] [pid 2358] [client 10.183.2.1:51480] PHP Notice:  Undefined variable: username in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:29:53.982841 2018] [:error] [pid 2358] [client 10.183.2.1:51480] PHP Notice:  Undefined variable: password in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:29:53.982987 2018] [:error] [pid 2358] [client 10.183.2.1:51480] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:29:55.492503 2018] [:error] [pid 2358] [client 10.183.2.1:51480] PHP Notice:  Undefined variable: hostname in /home/wgp/https/db/pushhits.php on line 5
+[Wed Mar 21 13:29:55.492516 2018] [:error] [pid 2358] [client 10.183.2.1:51480] PHP Notice:  Undefined variable: database in /home/wgp/https/db/pushhits.php on line 5
+[Wed Mar 21 13:29:55.492518 2018] [:error] [pid 2358] [client 10.183.2.1:51480] PHP Notice:  Undefined variable: username in /home/wgp/https/db/pushhits.php on line 5
+[Wed Mar 21 13:29:55.492521 2018] [:error] [pid 2358] [client 10.183.2.1:51480] PHP Notice:  Undefined variable: hostname in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:29:55.492523 2018] [:error] [pid 2358] [client 10.183.2.1:51480] PHP Notice:  Undefined variable: username in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:29:55.492525 2018] [:error] [pid 2358] [client 10.183.2.1:51480] PHP Notice:  Undefined variable: password in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:29:55.492662 2018] [:error] [pid 2358] [client 10.183.2.1:51480] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:29:55.964424 2018] [:error] [pid 2358] [client 10.183.2.1:51480] PHP Notice:  Undefined variable: hostname in /home/wgp/https/db/pushhits.php on line 5
+[Wed Mar 21 13:29:55.964435 2018] [:error] [pid 2358] [client 10.183.2.1:51480] PHP Notice:  Undefined variable: database in /home/wgp/https/db/pushhits.php on line 5
+[Wed Mar 21 13:29:55.964437 2018] [:error] [pid 2358] [client 10.183.2.1:51480] PHP Notice:  Undefined variable: username in /home/wgp/https/db/pushhits.php on line 5
+[Wed Mar 21 13:29:55.964440 2018] [:error] [pid 2358] [client 10.183.2.1:51480] PHP Notice:  Undefined variable: hostname in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:29:55.964441 2018] [:error] [pid 2358] [client 10.183.2.1:51480] PHP Notice:  Undefined variable: username in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:29:55.964451 2018] [:error] [pid 2358] [client 10.183.2.1:51480] PHP Notice:  Undefined variable: password in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:29:55.964595 2018] [:error] [pid 2358] [client 10.183.2.1:51480] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:29:56.669551 2018] [:error] [pid 2358] [client 10.183.2.1:51480] PHP Notice:  Undefined variable: hostname in /home/wgp/https/db/pushhits.php on line 5
+[Wed Mar 21 13:29:56.669563 2018] [:error] [pid 2358] [client 10.183.2.1:51480] PHP Notice:  Undefined variable: database in /home/wgp/https/db/pushhits.php on line 5
+[Wed Mar 21 13:29:56.669565 2018] [:error] [pid 2358] [client 10.183.2.1:51480] PHP Notice:  Undefined variable: username in /home/wgp/https/db/pushhits.php on line 5
+[Wed Mar 21 13:29:56.669569 2018] [:error] [pid 2358] [client 10.183.2.1:51480] PHP Notice:  Undefined variable: hostname in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:29:56.669571 2018] [:error] [pid 2358] [client 10.183.2.1:51480] PHP Notice:  Undefined variable: username in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:29:56.669572 2018] [:error] [pid 2358] [client 10.183.2.1:51480] PHP Notice:  Undefined variable: password in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:29:56.669710 2018] [:error] [pid 2358] [client 10.183.2.1:51480] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:29:56.917244 2018] [:error] [pid 2358] [client 10.183.2.1:51480] PHP Notice:  Undefined variable: hostname in /home/wgp/https/db/pushhits.php on line 5
+[Wed Mar 21 13:29:56.917256 2018] [:error] [pid 2358] [client 10.183.2.1:51480] PHP Notice:  Undefined variable: database in /home/wgp/https/db/pushhits.php on line 5
+[Wed Mar 21 13:29:56.917258 2018] [:error] [pid 2358] [client 10.183.2.1:51480] PHP Notice:  Undefined variable: username in /home/wgp/https/db/pushhits.php on line 5
+[Wed Mar 21 13:29:56.917262 2018] [:error] [pid 2358] [client 10.183.2.1:51480] PHP Notice:  Undefined variable: hostname in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:29:56.917264 2018] [:error] [pid 2358] [client 10.183.2.1:51480] PHP Notice:  Undefined variable: username in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:29:56.917265 2018] [:error] [pid 2358] [client 10.183.2.1:51480] PHP Notice:  Undefined variable: password in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:29:56.917426 2018] [:error] [pid 2358] [client 10.183.2.1:51480] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:30:00.249275 2018] [:error] [pid 2358] [client 10.183.2.1:51480] PHP Notice:  Undefined variable: hostname in /home/wgp/https/db/pushhits.php on line 5
+[Wed Mar 21 13:30:00.249288 2018] [:error] [pid 2358] [client 10.183.2.1:51480] PHP Notice:  Undefined variable: database in /home/wgp/https/db/pushhits.php on line 5
+[Wed Mar 21 13:30:00.249290 2018] [:error] [pid 2358] [client 10.183.2.1:51480] PHP Notice:  Undefined variable: username in /home/wgp/https/db/pushhits.php on line 5
+[Wed Mar 21 13:30:00.249293 2018] [:error] [pid 2358] [client 10.183.2.1:51480] PHP Notice:  Undefined variable: hostname in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:30:00.249295 2018] [:error] [pid 2358] [client 10.183.2.1:51480] PHP Notice:  Undefined variable: username in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:30:00.249297 2018] [:error] [pid 2358] [client 10.183.2.1:51480] PHP Notice:  Undefined variable: password in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:30:00.249448 2018] [:error] [pid 2358] [client 10.183.2.1:51480] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:30:01.595361 2018] [:error] [pid 2358] [client 10.183.2.1:51480] PHP Notice:  Undefined variable: hostname in /home/wgp/https/db/pushhits.php on line 5
+[Wed Mar 21 13:30:01.595373 2018] [:error] [pid 2358] [client 10.183.2.1:51480] PHP Notice:  Undefined variable: database in /home/wgp/https/db/pushhits.php on line 5
+[Wed Mar 21 13:30:01.595375 2018] [:error] [pid 2358] [client 10.183.2.1:51480] PHP Notice:  Undefined variable: username in /home/wgp/https/db/pushhits.php on line 5
+[Wed Mar 21 13:30:01.595378 2018] [:error] [pid 2358] [client 10.183.2.1:51480] PHP Notice:  Undefined variable: hostname in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:30:01.595380 2018] [:error] [pid 2358] [client 10.183.2.1:51480] PHP Notice:  Undefined variable: username in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:30:01.595382 2018] [:error] [pid 2358] [client 10.183.2.1:51480] PHP Notice:  Undefined variable: password in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:30:01.595550 2018] [:error] [pid 2358] [client 10.183.2.1:51480] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:30:02.028722 2018] [:error] [pid 2358] [client 10.183.2.1:51480] PHP Notice:  Undefined variable: hostname in /home/wgp/https/db/pushhits.php on line 5
+[Wed Mar 21 13:30:02.028733 2018] [:error] [pid 2358] [client 10.183.2.1:51480] PHP Notice:  Undefined variable: database in /home/wgp/https/db/pushhits.php on line 5
+[Wed Mar 21 13:30:02.028735 2018] [:error] [pid 2358] [client 10.183.2.1:51480] PHP Notice:  Undefined variable: username in /home/wgp/https/db/pushhits.php on line 5
+[Wed Mar 21 13:30:02.028738 2018] [:error] [pid 2358] [client 10.183.2.1:51480] PHP Notice:  Undefined variable: hostname in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:30:02.028740 2018] [:error] [pid 2358] [client 10.183.2.1:51480] PHP Notice:  Undefined variable: username in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:30:02.028742 2018] [:error] [pid 2358] [client 10.183.2.1:51480] PHP Notice:  Undefined variable: password in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:30:02.028932 2018] [:error] [pid 2358] [client 10.183.2.1:51480] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:30:02.359954 2018] [:error] [pid 2358] [client 10.183.2.1:51480] PHP Notice:  Undefined variable: hostname in /home/wgp/https/db/pushhits.php on line 5
+[Wed Mar 21 13:30:02.359964 2018] [:error] [pid 2358] [client 10.183.2.1:51480] PHP Notice:  Undefined variable: database in /home/wgp/https/db/pushhits.php on line 5
+[Wed Mar 21 13:30:02.359967 2018] [:error] [pid 2358] [client 10.183.2.1:51480] PHP Notice:  Undefined variable: username in /home/wgp/https/db/pushhits.php on line 5
+[Wed Mar 21 13:30:02.359970 2018] [:error] [pid 2358] [client 10.183.2.1:51480] PHP Notice:  Undefined variable: hostname in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:30:02.359972 2018] [:error] [pid 2358] [client 10.183.2.1:51480] PHP Notice:  Undefined variable: username in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:30:02.359974 2018] [:error] [pid 2358] [client 10.183.2.1:51480] PHP Notice:  Undefined variable: password in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:30:02.360220 2018] [:error] [pid 2358] [client 10.183.2.1:51480] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:30:03.888152 2018] [:error] [pid 2358] [client 10.183.2.1:51480] PHP Notice:  Undefined variable: hostname in /home/wgp/https/db/pushhits.php on line 5
+[Wed Mar 21 13:30:03.888169 2018] [:error] [pid 2358] [client 10.183.2.1:51480] PHP Notice:  Undefined variable: database in /home/wgp/https/db/pushhits.php on line 5
+[Wed Mar 21 13:30:03.888180 2018] [:error] [pid 2358] [client 10.183.2.1:51480] PHP Notice:  Undefined variable: username in /home/wgp/https/db/pushhits.php on line 5
+[Wed Mar 21 13:30:03.888185 2018] [:error] [pid 2358] [client 10.183.2.1:51480] PHP Notice:  Undefined variable: hostname in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:30:03.888188 2018] [:error] [pid 2358] [client 10.183.2.1:51480] PHP Notice:  Undefined variable: username in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:30:03.888190 2018] [:error] [pid 2358] [client 10.183.2.1:51480] PHP Notice:  Undefined variable: password in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:30:03.888393 2018] [:error] [pid 2358] [client 10.183.2.1:51480] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:30:04.191359 2018] [:error] [pid 2358] [client 10.183.2.1:51480] PHP Notice:  Undefined variable: hostname in /home/wgp/https/db/pushhits.php on line 5
+[Wed Mar 21 13:30:04.191372 2018] [:error] [pid 2358] [client 10.183.2.1:51480] PHP Notice:  Undefined variable: database in /home/wgp/https/db/pushhits.php on line 5
+[Wed Mar 21 13:30:04.191374 2018] [:error] [pid 2358] [client 10.183.2.1:51480] PHP Notice:  Undefined variable: username in /home/wgp/https/db/pushhits.php on line 5
+[Wed Mar 21 13:30:04.191377 2018] [:error] [pid 2358] [client 10.183.2.1:51480] PHP Notice:  Undefined variable: hostname in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:30:04.191379 2018] [:error] [pid 2358] [client 10.183.2.1:51480] PHP Notice:  Undefined variable: username in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:30:04.191381 2018] [:error] [pid 2358] [client 10.183.2.1:51480] PHP Notice:  Undefined variable: password in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:30:04.191573 2018] [:error] [pid 2358] [client 10.183.2.1:51480] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:30:04.464353 2018] [:error] [pid 2358] [client 10.183.2.1:51480] PHP Notice:  Undefined variable: hostname in /home/wgp/https/db/pushhits.php on line 5
+[Wed Mar 21 13:30:04.464364 2018] [:error] [pid 2358] [client 10.183.2.1:51480] PHP Notice:  Undefined variable: database in /home/wgp/https/db/pushhits.php on line 5
+[Wed Mar 21 13:30:04.464366 2018] [:error] [pid 2358] [client 10.183.2.1:51480] PHP Notice:  Undefined variable: username in /home/wgp/https/db/pushhits.php on line 5
+[Wed Mar 21 13:30:04.464369 2018] [:error] [pid 2358] [client 10.183.2.1:51480] PHP Notice:  Undefined variable: hostname in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:30:04.464372 2018] [:error] [pid 2358] [client 10.183.2.1:51480] PHP Notice:  Undefined variable: username in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:30:04.464373 2018] [:error] [pid 2358] [client 10.183.2.1:51480] PHP Notice:  Undefined variable: password in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:30:04.464537 2018] [:error] [pid 2358] [client 10.183.2.1:51480] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:30:04.735535 2018] [:error] [pid 2358] [client 10.183.2.1:51480] PHP Notice:  Undefined variable: hostname in /home/wgp/https/db/pushhits.php on line 5
+[Wed Mar 21 13:30:04.735546 2018] [:error] [pid 2358] [client 10.183.2.1:51480] PHP Notice:  Undefined variable: database in /home/wgp/https/db/pushhits.php on line 5
+[Wed Mar 21 13:30:04.735548 2018] [:error] [pid 2358] [client 10.183.2.1:51480] PHP Notice:  Undefined variable: username in /home/wgp/https/db/pushhits.php on line 5
+[Wed Mar 21 13:30:04.735551 2018] [:error] [pid 2358] [client 10.183.2.1:51480] PHP Notice:  Undefined variable: hostname in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:30:04.735553 2018] [:error] [pid 2358] [client 10.183.2.1:51480] PHP Notice:  Undefined variable: username in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:30:04.735562 2018] [:error] [pid 2358] [client 10.183.2.1:51480] PHP Notice:  Undefined variable: password in /home/wgp/https/db/pushhits.php on line 7
+[Wed Mar 21 13:30:04.735698 2018] [:error] [pid 2358] [client 10.183.2.1:51480] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/wgp/https/db/pushhits.php on line 7
+[Thu Mar 22 11:32:51.558854 2018] [ssl:warn] [pid 666] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Mar 22 11:32:51.835273 2018] [ssl:warn] [pid 666] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Mar 22 11:32:52.417198 2018] [ssl:warn] [pid 755] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Mar 22 11:32:52.417253 2018] [ssl:warn] [pid 755] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Mar 22 11:38:11.447813 2018] [ssl:warn] [pid 755] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Mar 22 11:38:11.447835 2018] [ssl:warn] [pid 755] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Mar 23 11:29:34.229266 2018] [ssl:warn] [pid 692] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Mar 23 11:29:34.505641 2018] [ssl:warn] [pid 692] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Mar 23 11:29:35.666510 2018] [ssl:warn] [pid 771] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Mar 23 11:29:35.666535 2018] [ssl:warn] [pid 771] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Mar 23 11:34:52.928103 2018] [ssl:warn] [pid 771] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Mar 23 11:34:52.928121 2018] [ssl:warn] [pid 771] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 26 11:32:30.945723 2018] [ssl:warn] [pid 558] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Mar 26 11:32:31.063936 2018] [ssl:warn] [pid 558] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 26 11:32:31.233714 2018] [ssl:warn] [pid 749] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Mar 26 11:32:31.233735 2018] [ssl:warn] [pid 749] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Mar 27 11:18:32.791174 2018] [ssl:warn] [pid 590] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Mar 27 11:18:33.750178 2018] [ssl:warn] [pid 590] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Mar 27 11:18:35.160960 2018] [ssl:warn] [pid 623] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Mar 27 11:18:35.160984 2018] [ssl:warn] [pid 623] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Mar 27 11:23:54.020154 2018] [ssl:warn] [pid 623] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Mar 27 11:23:54.020175 2018] [ssl:warn] [pid 623] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Mar 28 11:31:32.973217 2018] [ssl:warn] [pid 642] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Mar 28 11:31:33.116433 2018] [ssl:warn] [pid 642] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Mar 28 11:31:34.105974 2018] [ssl:warn] [pid 747] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Mar 28 11:31:34.105999 2018] [ssl:warn] [pid 747] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Mar 28 12:01:45.424840 2018] [ssl:warn] [pid 562] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Mar 28 12:01:45.475354 2018] [ssl:warn] [pid 562] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Mar 28 12:01:47.555133 2018] [ssl:warn] [pid 696] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Mar 28 12:01:47.555175 2018] [ssl:warn] [pid 696] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Mar 29 11:29:38.766591 2018] [ssl:warn] [pid 588] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Mar 29 11:29:38.925268 2018] [ssl:warn] [pid 588] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Mar 29 11:29:39.012422 2018] [ssl:warn] [pid 735] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Mar 29 11:29:39.012445 2018] [ssl:warn] [pid 735] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Mar 29 11:35:08.394036 2018] [ssl:warn] [pid 735] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Mar 29 11:35:08.394053 2018] [ssl:warn] [pid 735] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Mar 30 11:34:16.292262 2018] [ssl:warn] [pid 568] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Mar 30 11:34:16.642577 2018] [ssl:warn] [pid 568] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Mar 30 11:34:16.935951 2018] [ssl:warn] [pid 776] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Mar 30 11:34:16.935973 2018] [ssl:warn] [pid 776] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Apr 09 12:43:10.967295 2018] [ssl:warn] [pid 578] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Apr 09 12:43:11.076235 2018] [ssl:warn] [pid 578] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Apr 09 12:43:11.951768 2018] [ssl:warn] [pid 733] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Apr 09 12:43:11.951797 2018] [ssl:warn] [pid 733] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Apr 10 11:32:04.763451 2018] [ssl:warn] [pid 589] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Apr 10 11:32:04.963846 2018] [ssl:warn] [pid 589] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Apr 10 11:32:06.233248 2018] [ssl:warn] [pid 709] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Apr 10 11:32:06.233338 2018] [ssl:warn] [pid 709] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Apr 11 11:28:01.699407 2018] [ssl:warn] [pid 618] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Apr 11 11:28:01.942071 2018] [ssl:warn] [pid 618] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Apr 11 11:28:02.791142 2018] [ssl:warn] [pid 728] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Apr 11 11:28:02.791166 2018] [ssl:warn] [pid 728] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Apr 12 11:32:31.426060 2018] [ssl:warn] [pid 566] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Apr 12 11:32:31.460519 2018] [ssl:warn] [pid 566] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Apr 12 11:32:32.769000 2018] [ssl:warn] [pid 705] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Apr 12 11:32:32.769025 2018] [ssl:warn] [pid 705] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 13 11:22:20.811819 2018] [ssl:warn] [pid 609] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Apr 13 11:22:21.079387 2018] [ssl:warn] [pid 609] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 13 11:22:21.710160 2018] [ssl:warn] [pid 728] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Apr 13 11:22:21.710181 2018] [ssl:warn] [pid 728] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Apr 16 11:31:22.713767 2018] [ssl:warn] [pid 593] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Apr 16 11:31:22.848244 2018] [ssl:warn] [pid 593] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Apr 16 11:31:23.615663 2018] [ssl:warn] [pid 724] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Apr 16 11:31:23.615687 2018] [ssl:warn] [pid 724] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Apr 17 11:20:16.453294 2018] [ssl:warn] [pid 555] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Apr 17 11:20:16.521051 2018] [ssl:warn] [pid 555] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Apr 17 11:20:16.805079 2018] [ssl:warn] [pid 722] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Apr 17 11:20:16.805101 2018] [ssl:warn] [pid 722] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Apr 18 11:28:10.665135 2018] [ssl:warn] [pid 565] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Apr 18 11:28:10.932663 2018] [ssl:warn] [pid 565] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Apr 18 11:28:11.186387 2018] [ssl:warn] [pid 717] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Apr 18 11:28:11.186437 2018] [ssl:warn] [pid 717] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Apr 19 11:39:34.997690 2018] [ssl:warn] [pid 569] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Apr 19 11:39:35.157081 2018] [ssl:warn] [pid 569] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Apr 19 11:39:35.924971 2018] [ssl:warn] [pid 721] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Apr 19 11:39:35.924994 2018] [ssl:warn] [pid 721] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Apr 19 11:44:59.407647 2018] [ssl:warn] [pid 721] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Apr 19 11:44:59.407669 2018] [ssl:warn] [pid 721] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 20 11:24:12.239082 2018] [ssl:warn] [pid 568] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Apr 20 11:24:12.588073 2018] [ssl:warn] [pid 568] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 20 11:24:13.769852 2018] [ssl:warn] [pid 756] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Apr 20 11:24:13.769882 2018] [ssl:warn] [pid 756] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Apr 24 11:25:57.234097 2018] [ssl:warn] [pid 585] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Apr 24 11:25:57.558196 2018] [ssl:warn] [pid 585] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Apr 24 11:25:57.929109 2018] [ssl:warn] [pid 734] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Apr 24 11:25:57.929130 2018] [ssl:warn] [pid 734] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Apr 25 11:29:41.401993 2018] [ssl:warn] [pid 561] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Apr 25 11:29:41.426396 2018] [ssl:warn] [pid 561] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Apr 25 11:29:43.386137 2018] [ssl:warn] [pid 697] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Apr 25 11:29:43.386163 2018] [ssl:warn] [pid 697] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Apr 25 11:35:06.585485 2018] [ssl:warn] [pid 697] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Apr 25 11:35:06.585506 2018] [ssl:warn] [pid 697] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Apr 26 11:27:54.488031 2018] [ssl:warn] [pid 578] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Apr 26 11:27:54.570633 2018] [ssl:warn] [pid 578] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Apr 26 11:27:54.988388 2018] [ssl:warn] [pid 726] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Apr 26 11:27:54.988429 2018] [ssl:warn] [pid 726] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 27 11:29:30.896875 2018] [ssl:warn] [pid 630] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Apr 27 11:29:31.012733 2018] [ssl:warn] [pid 630] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 27 11:29:31.200469 2018] [ssl:warn] [pid 725] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Apr 27 11:29:31.200501 2018] [ssl:warn] [pid 725] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Apr 30 11:34:44.623456 2018] [ssl:warn] [pid 569] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Apr 30 11:34:44.801608 2018] [ssl:warn] [pid 569] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Apr 30 11:34:45.856147 2018] [ssl:warn] [pid 726] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Apr 30 11:34:45.856170 2018] [ssl:warn] [pid 726] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Tue May 01 11:32:09.079350 2018] [ssl:warn] [pid 600] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue May 01 11:32:09.199197 2018] [ssl:warn] [pid 600] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Tue May 01 11:32:10.829568 2018] [ssl:warn] [pid 664] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue May 01 11:32:10.829598 2018] [ssl:warn] [pid 664] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Tue May 01 11:37:29.183351 2018] [ssl:warn] [pid 664] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue May 01 11:37:29.183368 2018] [ssl:warn] [pid 664] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Wed May 02 11:20:38.617153 2018] [ssl:warn] [pid 557] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed May 02 11:20:38.686987 2018] [ssl:warn] [pid 557] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Wed May 02 11:20:39.885251 2018] [ssl:warn] [pid 731] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed May 02 11:20:39.885277 2018] [ssl:warn] [pid 731] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Thu May 03 11:27:07.974551 2018] [ssl:warn] [pid 564] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu May 03 11:27:08.019458 2018] [ssl:warn] [pid 564] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Thu May 03 11:27:08.858200 2018] [ssl:warn] [pid 702] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu May 03 11:27:08.858227 2018] [ssl:warn] [pid 702] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Fri May 04 11:28:58.067208 2018] [ssl:warn] [pid 575] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri May 04 11:28:58.095430 2018] [ssl:warn] [pid 575] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Fri May 04 11:28:59.574546 2018] [ssl:warn] [pid 713] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri May 04 11:28:59.574579 2018] [ssl:warn] [pid 713] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Fri May 04 13:19:03.615321 2018] [:error] [pid 2316] [client 10.183.4.108:56021] PHP Notice:  Undefined variable: thelist in /home/wgp/html/download/index.php on line 10, referer: https://10.183.2.1/html/
+[Fri May 04 13:21:12.244725 2018] [:error] [pid 725] [client 10.183.4.108:56039] PHP Notice:  Undefined variable: thelist in /home/wgp/html/download/index.php on line 10, referer: https://10.183.2.1/html/
+[Mon May 07 11:29:03.595563 2018] [ssl:warn] [pid 564] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon May 07 11:29:03.989570 2018] [ssl:warn] [pid 564] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Mon May 07 11:29:05.187455 2018] [ssl:warn] [pid 733] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon May 07 11:29:05.187479 2018] [ssl:warn] [pid 733] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Mon May 07 11:34:21.354034 2018] [ssl:warn] [pid 733] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon May 07 11:34:21.354056 2018] [ssl:warn] [pid 733] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Tue May 08 10:51:37.156119 2018] [ssl:warn] [pid 610] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue May 08 10:51:37.267166 2018] [ssl:warn] [pid 610] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Tue May 08 10:51:37.609284 2018] [ssl:warn] [pid 726] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue May 08 10:51:37.609306 2018] [ssl:warn] [pid 726] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Wed May 09 10:51:52.266408 2018] [ssl:warn] [pid 588] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed May 09 10:51:52.452345 2018] [ssl:warn] [pid 588] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Wed May 09 10:51:53.620457 2018] [ssl:warn] [pid 733] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed May 09 10:51:53.620490 2018] [ssl:warn] [pid 733] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Wed May 09 10:57:13.233873 2018] [ssl:warn] [pid 733] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed May 09 10:57:13.233894 2018] [ssl:warn] [pid 733] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Thu May 10 10:54:16.944041 2018] [ssl:warn] [pid 584] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu May 10 10:54:17.005050 2018] [ssl:warn] [pid 584] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Thu May 10 10:54:19.917237 2018] [ssl:warn] [pid 725] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu May 10 10:54:19.917260 2018] [ssl:warn] [pid 725] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Fri May 11 10:52:08.146052 2018] [ssl:warn] [pid 623] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri May 11 10:52:08.323651 2018] [ssl:warn] [pid 623] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Fri May 11 10:52:08.553647 2018] [ssl:warn] [pid 730] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri May 11 10:52:08.553668 2018] [ssl:warn] [pid 730] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Mon May 14 10:49:55.115885 2018] [ssl:warn] [pid 547] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon May 14 10:49:55.168583 2018] [ssl:warn] [pid 547] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Mon May 14 10:49:55.999750 2018] [ssl:warn] [pid 702] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon May 14 10:49:55.999773 2018] [ssl:warn] [pid 702] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Mon May 14 10:55:24.417111 2018] [ssl:warn] [pid 702] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon May 14 10:55:24.417134 2018] [ssl:warn] [pid 702] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Thu May 17 10:53:41.751945 2018] [ssl:warn] [pid 573] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu May 17 10:53:42.187628 2018] [ssl:warn] [pid 573] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Thu May 17 10:53:42.340148 2018] [ssl:warn] [pid 754] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu May 17 10:53:42.340169 2018] [ssl:warn] [pid 754] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Fri May 18 10:50:39.206659 2018] [ssl:warn] [pid 599] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri May 18 10:50:39.525812 2018] [ssl:warn] [pid 599] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Fri May 18 10:50:39.944456 2018] [ssl:warn] [pid 714] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri May 18 10:50:39.944493 2018] [ssl:warn] [pid 714] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Mon May 21 10:53:28.156803 2018] [ssl:warn] [pid 560] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon May 21 10:53:28.359322 2018] [ssl:warn] [pid 560] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Mon May 21 10:53:28.684903 2018] [ssl:warn] [pid 766] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon May 21 10:53:28.684925 2018] [ssl:warn] [pid 766] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Mon May 21 10:58:50.618963 2018] [ssl:warn] [pid 766] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon May 21 10:58:50.618984 2018] [ssl:warn] [pid 766] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Tue May 22 10:52:12.543779 2018] [ssl:warn] [pid 600] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue May 22 10:52:12.937846 2018] [ssl:warn] [pid 600] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Tue May 22 10:52:13.646082 2018] [ssl:warn] [pid 742] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue May 22 10:52:13.646125 2018] [ssl:warn] [pid 742] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Wed May 23 11:28:17.384696 2018] [ssl:warn] [pid 564] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed May 23 11:28:17.545618 2018] [ssl:warn] [pid 564] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Wed May 23 11:28:18.194961 2018] [ssl:warn] [pid 747] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed May 23 11:28:18.194985 2018] [ssl:warn] [pid 747] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Wed May 23 11:33:41.147989 2018] [ssl:warn] [pid 747] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed May 23 11:33:41.148010 2018] [ssl:warn] [pid 747] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Thu May 24 10:56:28.066825 2018] [ssl:warn] [pid 705] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu May 24 10:56:28.144557 2018] [ssl:warn] [pid 705] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Thu May 24 10:56:32.231060 2018] [ssl:warn] [pid 714] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu May 24 10:56:32.231104 2018] [ssl:warn] [pid 714] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Tue May 29 10:49:56.472128 2018] [ssl:warn] [pid 615] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue May 29 10:49:56.633054 2018] [ssl:warn] [pid 615] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Tue May 29 10:49:57.950405 2018] [ssl:warn] [pid 709] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue May 29 10:49:57.950446 2018] [ssl:warn] [pid 709] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Wed May 30 10:54:53.087540 2018] [ssl:warn] [pid 573] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed May 30 10:54:53.190181 2018] [ssl:warn] [pid 573] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Wed May 30 10:54:53.894886 2018] [ssl:warn] [pid 780] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed May 30 10:54:53.894910 2018] [ssl:warn] [pid 780] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Thu May 31 11:09:22.024593 2018] [ssl:warn] [pid 610] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu May 31 11:09:22.143839 2018] [ssl:warn] [pid 610] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Thu May 31 11:09:23.817190 2018] [ssl:warn] [pid 742] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu May 31 11:09:23.817214 2018] [ssl:warn] [pid 742] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 01 11:25:56.755459 2018] [ssl:warn] [pid 607] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Jun 01 11:25:57.083066 2018] [ssl:warn] [pid 607] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 01 11:25:57.217461 2018] [ssl:warn] [pid 764] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Jun 01 11:25:57.217483 2018] [ssl:warn] [pid 764] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jun 04 10:52:34.065133 2018] [ssl:warn] [pid 572] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Jun 04 10:52:34.234544 2018] [ssl:warn] [pid 572] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jun 04 10:52:35.283535 2018] [ssl:warn] [pid 763] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Jun 04 10:52:35.283563 2018] [ssl:warn] [pid 763] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Jun 06 11:06:54.302670 2018] [ssl:warn] [pid 628] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Jun 06 11:06:54.580324 2018] [ssl:warn] [pid 628] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Jun 06 11:06:55.299157 2018] [ssl:warn] [pid 797] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Jun 06 11:06:55.299180 2018] [ssl:warn] [pid 797] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Jun 06 11:50:10.092461 2018] [ssl:warn] [pid 697] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Jun 06 11:50:10.178419 2018] [ssl:warn] [pid 697] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Jun 06 11:50:10.658319 2018] [ssl:warn] [pid 792] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Jun 06 11:50:10.658343 2018] [ssl:warn] [pid 792] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Jun 06 12:22:50.592982 2018] [ssl:warn] [pid 584] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Jun 06 12:22:50.912231 2018] [ssl:warn] [pid 584] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Jun 06 12:22:53.932030 2018] [ssl:warn] [pid 764] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Jun 06 12:22:53.932095 2018] [ssl:warn] [pid 764] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Jun 06 12:35:51.024009 2018] [ssl:warn] [pid 675] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Jun 06 12:35:51.209917 2018] [ssl:warn] [pid 675] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Jun 06 12:35:54.348765 2018] [ssl:warn] [pid 754] AH01906: sierramadre.ksd.edu:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Jun 06 12:35:54.348791 2018] [ssl:warn] [pid 754] AH01909: sierramadre.ksd.edu:443:0 server certificate does NOT include an ID which matches the server name

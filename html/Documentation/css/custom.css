@@ -1,0 +1,18 @@
+html {
+font-family:"Times New Roman", Geargia, Serif;
+font-size:10px;
+}
+
+body {
+margin: 0;
+background-color: #073940;
+color: #0f7381;
+}
+
+a.slink:hover {
+display:inline-block;
+font-family:Serif;
+font-size: 10px;
+background-color:#007687;
+color:#05A6BC;
+}

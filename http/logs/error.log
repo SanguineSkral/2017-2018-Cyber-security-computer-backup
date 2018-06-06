@@ -1,0 +1,211 @@
+[Tue Mar 13 13:41:46.450134 2018] [mpm_prefork:notice] [pid 3419] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2l configured -- resuming normal operations
+[Tue Mar 13 13:41:46.450152 2018] [core:notice] [pid 3419] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Mar 13 14:00:31.649907 2018] [mpm_prefork:notice] [pid 3419] AH00169: caught SIGTERM, shutting down
+[Wed Mar 14 11:42:41.905689 2018] [mpm_prefork:notice] [pid 761] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2l configured -- resuming normal operations
+[Wed Mar 14 11:42:41.952681 2018] [core:notice] [pid 761] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Mar 14 11:48:00.571015 2018] [mpm_prefork:notice] [pid 761] AH00171: Graceful restart requested, doing restart
+[Wed Mar 14 11:48:00.589302 2018] [mpm_prefork:notice] [pid 761] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2l configured -- resuming normal operations
+[Wed Mar 14 11:48:00.589307 2018] [core:notice] [pid 761] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Mar 14 11:57:12.707299 2018] [mpm_prefork:notice] [pid 761] AH00169: caught SIGTERM, shutting down
+[Thu Mar 15 11:46:44.073445 2018] [mpm_prefork:notice] [pid 727] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2l configured -- resuming normal operations
+[Thu Mar 15 11:46:44.169348 2018] [core:notice] [pid 727] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Mar 15 13:57:24.966472 2018] [mpm_prefork:notice] [pid 727] AH00169: caught SIGTERM, shutting down
+[Fri Mar 16 11:30:15.793964 2018] [mpm_prefork:notice] [pid 803] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2l configured -- resuming normal operations
+[Fri Mar 16 11:30:15.843257 2018] [core:notice] [pid 803] AH00094: Command line: '/usr/sbin/apache2'
+[Fri Mar 16 11:35:28.316965 2018] [mpm_prefork:notice] [pid 803] AH00171: Graceful restart requested, doing restart
+[Fri Mar 16 11:35:28.335166 2018] [mpm_prefork:notice] [pid 803] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2l configured -- resuming normal operations
+[Fri Mar 16 11:35:28.335183 2018] [core:notice] [pid 803] AH00094: Command line: '/usr/sbin/apache2'
+[Fri Mar 16 13:58:48.874934 2018] [mpm_prefork:notice] [pid 803] AH00169: caught SIGTERM, shutting down
+[Mon Mar 19 11:27:40.439250 2018] [mpm_prefork:notice] [pid 750] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2l configured -- resuming normal operations
+[Mon Mar 19 11:27:40.581882 2018] [core:notice] [pid 750] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Mar 19 13:56:55.213856 2018] [mpm_prefork:notice] [pid 750] AH00169: caught SIGTERM, shutting down
+[Tue Mar 20 11:25:24.110172 2018] [mpm_prefork:notice] [pid 732] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2l configured -- resuming normal operations
+[Tue Mar 20 11:25:24.172089 2018] [core:notice] [pid 732] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Mar 20 11:30:37.332924 2018] [mpm_prefork:notice] [pid 732] AH00171: Graceful restart requested, doing restart
+[Tue Mar 20 11:30:37.351573 2018] [mpm_prefork:notice] [pid 732] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2l configured -- resuming normal operations
+[Tue Mar 20 11:30:37.351578 2018] [core:notice] [pid 732] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Mar 20 13:56:04.839705 2018] [mpm_prefork:notice] [pid 732] AH00169: caught SIGTERM, shutting down
+[Wed Mar 21 11:24:10.245897 2018] [mpm_prefork:notice] [pid 806] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2l configured -- resuming normal operations
+[Wed Mar 21 11:24:10.277760 2018] [core:notice] [pid 806] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Mar 21 11:29:31.736567 2018] [mpm_prefork:notice] [pid 806] AH00171: Graceful restart requested, doing restart
+[Wed Mar 21 11:29:31.758119 2018] [mpm_prefork:notice] [pid 806] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2l configured -- resuming normal operations
+[Wed Mar 21 11:29:31.758124 2018] [core:notice] [pid 806] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Mar 21 13:57:03.051639 2018] [mpm_prefork:notice] [pid 806] AH00169: caught SIGTERM, shutting down
+[Thu Mar 22 11:32:52.420982 2018] [mpm_prefork:notice] [pid 755] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2l configured -- resuming normal operations
+[Thu Mar 22 11:32:52.524864 2018] [core:notice] [pid 755] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Mar 22 11:38:11.428406 2018] [mpm_prefork:notice] [pid 755] AH00171: Graceful restart requested, doing restart
+[Thu Mar 22 11:38:11.447952 2018] [mpm_prefork:notice] [pid 755] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2l configured -- resuming normal operations
+[Thu Mar 22 11:38:11.447958 2018] [core:notice] [pid 755] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Mar 22 13:56:43.366870 2018] [mpm_prefork:notice] [pid 755] AH00169: caught SIGTERM, shutting down
+[Fri Mar 23 11:29:35.667815 2018] [mpm_prefork:notice] [pid 771] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2l configured -- resuming normal operations
+[Fri Mar 23 11:29:35.695386 2018] [core:notice] [pid 771] AH00094: Command line: '/usr/sbin/apache2'
+[Fri Mar 23 11:34:52.907110 2018] [mpm_prefork:notice] [pid 771] AH00171: Graceful restart requested, doing restart
+[Fri Mar 23 11:34:52.928246 2018] [mpm_prefork:notice] [pid 771] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2l configured -- resuming normal operations
+[Fri Mar 23 11:34:52.928252 2018] [core:notice] [pid 771] AH00094: Command line: '/usr/sbin/apache2'
+[Fri Mar 23 13:55:04.890811 2018] [mpm_prefork:notice] [pid 771] AH00169: caught SIGTERM, shutting down
+[Mon Mar 26 11:32:31.235002 2018] [mpm_prefork:notice] [pid 749] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2l configured -- resuming normal operations
+[Mon Mar 26 11:32:31.271288 2018] [core:notice] [pid 749] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Mar 26 13:58:04.359685 2018] [mpm_prefork:notice] [pid 749] AH00169: caught SIGTERM, shutting down
+[Tue Mar 27 11:18:35.162262 2018] [mpm_prefork:notice] [pid 623] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2l configured -- resuming normal operations
+[Tue Mar 27 11:18:35.189820 2018] [core:notice] [pid 623] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Mar 27 11:23:54.002013 2018] [mpm_prefork:notice] [pid 623] AH00171: Graceful restart requested, doing restart
+[Tue Mar 27 11:23:54.020292 2018] [mpm_prefork:notice] [pid 623] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2l configured -- resuming normal operations
+[Tue Mar 27 11:23:54.020297 2018] [core:notice] [pid 623] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Mar 27 13:57:20.933677 2018] [mpm_prefork:notice] [pid 623] AH00169: caught SIGTERM, shutting down
+[Wed Mar 28 11:31:34.107290 2018] [mpm_prefork:notice] [pid 747] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2l configured -- resuming normal operations
+[Wed Mar 28 11:31:34.314506 2018] [core:notice] [pid 747] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Mar 28 11:58:12.336695 2018] [mpm_prefork:notice] [pid 747] AH00169: caught SIGTERM, shutting down
+[Wed Mar 28 12:01:47.557650 2018] [mpm_prefork:notice] [pid 696] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2l configured -- resuming normal operations
+[Wed Mar 28 12:01:47.582054 2018] [core:notice] [pid 696] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Mar 28 13:57:35.937352 2018] [mpm_prefork:notice] [pid 696] AH00169: caught SIGTERM, shutting down
+[Thu Mar 29 11:29:39.013691 2018] [mpm_prefork:notice] [pid 735] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2l configured -- resuming normal operations
+[Thu Mar 29 11:29:39.033932 2018] [core:notice] [pid 735] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Mar 29 11:35:08.375301 2018] [mpm_prefork:notice] [pid 735] AH00171: Graceful restart requested, doing restart
+[Thu Mar 29 11:35:08.394174 2018] [mpm_prefork:notice] [pid 735] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2l configured -- resuming normal operations
+[Thu Mar 29 11:35:08.394179 2018] [core:notice] [pid 735] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Mar 29 13:57:18.242857 2018] [mpm_prefork:notice] [pid 735] AH00169: caught SIGTERM, shutting down
+[Fri Mar 30 11:34:16.937238 2018] [mpm_prefork:notice] [pid 776] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2l configured -- resuming normal operations
+[Fri Mar 30 11:34:16.992537 2018] [core:notice] [pid 776] AH00094: Command line: '/usr/sbin/apache2'
+[Fri Mar 30 13:55:56.381790 2018] [mpm_prefork:notice] [pid 776] AH00169: caught SIGTERM, shutting down
+[Mon Apr 09 12:43:11.953579 2018] [mpm_prefork:notice] [pid 733] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2l configured -- resuming normal operations
+[Mon Apr 09 12:43:12.025114 2018] [core:notice] [pid 733] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Apr 09 13:55:50.782043 2018] [mpm_prefork:notice] [pid 733] AH00169: caught SIGTERM, shutting down
+[Tue Apr 10 11:32:06.237125 2018] [mpm_prefork:notice] [pid 709] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2l configured -- resuming normal operations
+[Tue Apr 10 11:32:06.304018 2018] [core:notice] [pid 709] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Apr 10 13:58:28.128084 2018] [mpm_prefork:notice] [pid 709] AH00169: caught SIGTERM, shutting down
+[Wed Apr 11 11:28:02.792421 2018] [mpm_prefork:notice] [pid 728] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2l configured -- resuming normal operations
+[Wed Apr 11 11:28:02.857137 2018] [core:notice] [pid 728] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Apr 11 13:59:44.989535 2018] [mpm_prefork:notice] [pid 728] AH00169: caught SIGTERM, shutting down
+[Thu Apr 12 11:32:32.770349 2018] [mpm_prefork:notice] [pid 705] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2l configured -- resuming normal operations
+[Thu Apr 12 11:32:32.824988 2018] [core:notice] [pid 705] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Apr 12 13:59:03.572247 2018] [mpm_prefork:notice] [pid 705] AH00169: caught SIGTERM, shutting down
+[Fri Apr 13 11:22:21.711503 2018] [mpm_prefork:notice] [pid 728] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2l configured -- resuming normal operations
+[Fri Apr 13 11:22:21.836257 2018] [core:notice] [pid 728] AH00094: Command line: '/usr/sbin/apache2'
+[Fri Apr 13 13:55:55.917249 2018] [mpm_prefork:notice] [pid 728] AH00169: caught SIGTERM, shutting down
+[Mon Apr 16 11:31:23.616923 2018] [mpm_prefork:notice] [pid 724] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2l configured -- resuming normal operations
+[Mon Apr 16 11:31:23.696619 2018] [core:notice] [pid 724] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Apr 16 13:57:11.880257 2018] [mpm_prefork:notice] [pid 724] AH00169: caught SIGTERM, shutting down
+[Tue Apr 17 11:20:16.806390 2018] [mpm_prefork:notice] [pid 722] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2l configured -- resuming normal operations
+[Tue Apr 17 11:20:16.844974 2018] [core:notice] [pid 722] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Apr 17 13:56:35.255157 2018] [mpm_prefork:notice] [pid 722] AH00169: caught SIGTERM, shutting down
+[Wed Apr 18 11:28:11.189765 2018] [mpm_prefork:notice] [pid 717] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2l configured -- resuming normal operations
+[Wed Apr 18 11:28:11.439780 2018] [core:notice] [pid 717] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Apr 18 13:57:16.178597 2018] [mpm_prefork:notice] [pid 717] AH00169: caught SIGTERM, shutting down
+[Thu Apr 19 11:39:35.926226 2018] [mpm_prefork:notice] [pid 721] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2l configured -- resuming normal operations
+[Thu Apr 19 11:39:36.030480 2018] [core:notice] [pid 721] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Apr 19 11:44:59.389447 2018] [mpm_prefork:notice] [pid 721] AH00171: Graceful restart requested, doing restart
+[Thu Apr 19 11:44:59.407788 2018] [mpm_prefork:notice] [pid 721] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2l configured -- resuming normal operations
+[Thu Apr 19 11:44:59.407794 2018] [core:notice] [pid 721] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Apr 19 13:56:21.693721 2018] [mpm_prefork:notice] [pid 721] AH00169: caught SIGTERM, shutting down
+[Fri Apr 20 11:24:13.771588 2018] [mpm_prefork:notice] [pid 756] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2l configured -- resuming normal operations
+[Fri Apr 20 11:24:13.854652 2018] [core:notice] [pid 756] AH00094: Command line: '/usr/sbin/apache2'
+[Fri Apr 20 13:58:00.312338 2018] [mpm_prefork:notice] [pid 756] AH00169: caught SIGTERM, shutting down
+[Tue Apr 24 11:25:57.930341 2018] [mpm_prefork:notice] [pid 734] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2l configured -- resuming normal operations
+[Tue Apr 24 11:25:57.950630 2018] [core:notice] [pid 734] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Apr 24 13:58:40.675494 2018] [mpm_prefork:notice] [pid 734] AH00169: caught SIGTERM, shutting down
+[Wed Apr 25 11:29:43.387464 2018] [mpm_prefork:notice] [pid 697] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2l configured -- resuming normal operations
+[Wed Apr 25 11:29:43.431191 2018] [core:notice] [pid 697] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Apr 25 11:35:06.567090 2018] [mpm_prefork:notice] [pid 697] AH00171: Graceful restart requested, doing restart
+[Wed Apr 25 11:35:06.585626 2018] [mpm_prefork:notice] [pid 697] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2l configured -- resuming normal operations
+[Wed Apr 25 11:35:06.585632 2018] [core:notice] [pid 697] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Apr 25 13:56:39.012626 2018] [mpm_prefork:notice] [pid 697] AH00169: caught SIGTERM, shutting down
+[Thu Apr 26 11:27:54.990702 2018] [mpm_prefork:notice] [pid 726] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2l configured -- resuming normal operations
+[Thu Apr 26 11:27:55.027007 2018] [core:notice] [pid 726] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Apr 26 13:57:11.653401 2018] [mpm_prefork:notice] [pid 726] AH00169: caught SIGTERM, shutting down
+[Fri Apr 27 11:29:31.202680 2018] [mpm_prefork:notice] [pid 725] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2l configured -- resuming normal operations
+[Fri Apr 27 11:29:31.510653 2018] [core:notice] [pid 725] AH00094: Command line: '/usr/sbin/apache2'
+[Fri Apr 27 13:58:36.625546 2018] [mpm_prefork:notice] [pid 725] AH00169: caught SIGTERM, shutting down
+[Mon Apr 30 11:34:45.857390 2018] [mpm_prefork:notice] [pid 726] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2l configured -- resuming normal operations
+[Mon Apr 30 11:34:46.169857 2018] [core:notice] [pid 726] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Apr 30 13:53:46.674032 2018] [mpm_prefork:notice] [pid 726] AH00169: caught SIGTERM, shutting down
+[Tue May 01 11:32:10.831391 2018] [mpm_prefork:notice] [pid 664] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2l configured -- resuming normal operations
+[Tue May 01 11:32:10.867143 2018] [core:notice] [pid 664] AH00094: Command line: '/usr/sbin/apache2'
+[Tue May 01 11:37:29.162702 2018] [mpm_prefork:notice] [pid 664] AH00171: Graceful restart requested, doing restart
+[Tue May 01 11:37:29.183489 2018] [mpm_prefork:notice] [pid 664] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2l configured -- resuming normal operations
+[Tue May 01 11:37:29.183495 2018] [core:notice] [pid 664] AH00094: Command line: '/usr/sbin/apache2'
+[Tue May 01 13:56:28.716699 2018] [mpm_prefork:notice] [pid 664] AH00169: caught SIGTERM, shutting down
+[Wed May 02 11:20:39.886584 2018] [mpm_prefork:notice] [pid 731] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2l configured -- resuming normal operations
+[Wed May 02 11:20:39.913605 2018] [core:notice] [pid 731] AH00094: Command line: '/usr/sbin/apache2'
+[Wed May 02 13:55:28.865928 2018] [mpm_prefork:notice] [pid 731] AH00169: caught SIGTERM, shutting down
+[Thu May 03 11:27:08.859729 2018] [mpm_prefork:notice] [pid 702] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2l configured -- resuming normal operations
+[Thu May 03 11:27:08.929900 2018] [core:notice] [pid 702] AH00094: Command line: '/usr/sbin/apache2'
+[Thu May 03 13:55:44.792789 2018] [mpm_prefork:notice] [pid 702] AH00169: caught SIGTERM, shutting down
+[Fri May 04 11:28:59.576066 2018] [mpm_prefork:notice] [pid 713] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2l configured -- resuming normal operations
+[Fri May 04 11:28:59.729886 2018] [core:notice] [pid 713] AH00094: Command line: '/usr/sbin/apache2'
+[Fri May 04 13:56:37.423483 2018] [mpm_prefork:notice] [pid 713] AH00169: caught SIGTERM, shutting down
+[Mon May 07 11:29:05.188741 2018] [mpm_prefork:notice] [pid 733] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2l configured -- resuming normal operations
+[Mon May 07 11:29:05.258424 2018] [core:notice] [pid 733] AH00094: Command line: '/usr/sbin/apache2'
+[Mon May 07 11:34:21.327095 2018] [mpm_prefork:notice] [pid 733] AH00171: Graceful restart requested, doing restart
+[Mon May 07 11:34:21.354180 2018] [mpm_prefork:notice] [pid 733] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2l configured -- resuming normal operations
+[Mon May 07 11:34:21.354186 2018] [core:notice] [pid 733] AH00094: Command line: '/usr/sbin/apache2'
+[Mon May 07 13:58:35.422952 2018] [mpm_prefork:notice] [pid 733] AH00169: caught SIGTERM, shutting down
+[Tue May 08 10:51:37.610538 2018] [mpm_prefork:notice] [pid 726] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2l configured -- resuming normal operations
+[Tue May 08 10:51:37.635715 2018] [core:notice] [pid 726] AH00094: Command line: '/usr/sbin/apache2'
+[Tue May 08 13:54:35.441187 2018] [mpm_prefork:notice] [pid 726] AH00169: caught SIGTERM, shutting down
+[Wed May 09 10:51:53.622557 2018] [mpm_prefork:notice] [pid 733] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2l configured -- resuming normal operations
+[Wed May 09 10:51:53.870042 2018] [core:notice] [pid 733] AH00094: Command line: '/usr/sbin/apache2'
+[Wed May 09 10:57:13.215910 2018] [mpm_prefork:notice] [pid 733] AH00171: Graceful restart requested, doing restart
+[Wed May 09 10:57:13.234013 2018] [mpm_prefork:notice] [pid 733] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2l configured -- resuming normal operations
+[Wed May 09 10:57:13.234019 2018] [core:notice] [pid 733] AH00094: Command line: '/usr/sbin/apache2'
+[Wed May 09 13:56:40.596206 2018] [mpm_prefork:notice] [pid 733] AH00169: caught SIGTERM, shutting down
+[Thu May 10 10:54:19.918485 2018] [mpm_prefork:notice] [pid 725] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2l configured -- resuming normal operations
+[Thu May 10 10:54:19.979499 2018] [core:notice] [pid 725] AH00094: Command line: '/usr/sbin/apache2'
+[Thu May 10 13:58:17.632140 2018] [mpm_prefork:notice] [pid 725] AH00169: caught SIGTERM, shutting down
+[Fri May 11 10:52:08.554970 2018] [mpm_prefork:notice] [pid 730] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2l configured -- resuming normal operations
+[Fri May 11 10:52:08.817196 2018] [core:notice] [pid 730] AH00094: Command line: '/usr/sbin/apache2'
+[Fri May 11 13:59:06.362086 2018] [mpm_prefork:notice] [pid 730] AH00169: caught SIGTERM, shutting down
+[Mon May 14 10:49:56.001265 2018] [mpm_prefork:notice] [pid 702] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2l configured -- resuming normal operations
+[Mon May 14 10:49:56.153313 2018] [core:notice] [pid 702] AH00094: Command line: '/usr/sbin/apache2'
+[Mon May 14 10:55:24.396265 2018] [mpm_prefork:notice] [pid 702] AH00171: Graceful restart requested, doing restart
+[Mon May 14 10:55:24.417249 2018] [mpm_prefork:notice] [pid 702] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2l configured -- resuming normal operations
+[Mon May 14 10:55:24.417254 2018] [core:notice] [pid 702] AH00094: Command line: '/usr/sbin/apache2'
+[Mon May 14 13:57:18.047622 2018] [mpm_prefork:notice] [pid 702] AH00169: caught SIGTERM, shutting down
+[Thu May 17 10:53:42.341445 2018] [mpm_prefork:notice] [pid 754] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2l configured -- resuming normal operations
+[Thu May 17 10:53:42.456406 2018] [core:notice] [pid 754] AH00094: Command line: '/usr/sbin/apache2'
+[Thu May 17 13:56:54.631790 2018] [mpm_prefork:notice] [pid 754] AH00169: caught SIGTERM, shutting down
+[Fri May 18 10:50:39.946888 2018] [mpm_prefork:notice] [pid 714] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2l configured -- resuming normal operations
+[Fri May 18 10:50:40.061005 2018] [core:notice] [pid 714] AH00094: Command line: '/usr/sbin/apache2'
+[Fri May 18 13:58:07.511652 2018] [mpm_prefork:notice] [pid 714] AH00169: caught SIGTERM, shutting down
+[Mon May 21 10:53:28.686180 2018] [mpm_prefork:notice] [pid 766] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2l configured -- resuming normal operations
+[Mon May 21 10:53:28.761283 2018] [core:notice] [pid 766] AH00094: Command line: '/usr/sbin/apache2'
+[Mon May 21 10:58:50.600800 2018] [mpm_prefork:notice] [pid 766] AH00171: Graceful restart requested, doing restart
+[Mon May 21 10:58:50.619104 2018] [mpm_prefork:notice] [pid 766] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2l configured -- resuming normal operations
+[Mon May 21 10:58:50.619110 2018] [core:notice] [pid 766] AH00094: Command line: '/usr/sbin/apache2'
+[Mon May 21 13:59:04.661708 2018] [mpm_prefork:notice] [pid 766] AH00169: caught SIGTERM, shutting down
+[Tue May 22 10:52:13.648936 2018] [mpm_prefork:notice] [pid 742] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2l configured -- resuming normal operations
+[Tue May 22 10:52:13.691367 2018] [core:notice] [pid 742] AH00094: Command line: '/usr/sbin/apache2'
+[Tue May 22 13:59:09.182373 2018] [mpm_prefork:notice] [pid 742] AH00169: caught SIGTERM, shutting down
+[Wed May 23 11:28:18.196266 2018] [mpm_prefork:notice] [pid 747] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2l configured -- resuming normal operations
+[Wed May 23 11:28:18.274154 2018] [core:notice] [pid 747] AH00094: Command line: '/usr/sbin/apache2'
+[Wed May 23 11:33:41.122616 2018] [mpm_prefork:notice] [pid 747] AH00171: Graceful restart requested, doing restart
+[Wed May 23 11:33:41.148225 2018] [mpm_prefork:notice] [pid 747] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2l configured -- resuming normal operations
+[Wed May 23 11:33:41.148243 2018] [core:notice] [pid 747] AH00094: Command line: '/usr/sbin/apache2'
+[Wed May 23 13:58:05.495358 2018] [mpm_prefork:notice] [pid 747] AH00169: caught SIGTERM, shutting down
+[Thu May 24 10:56:32.232425 2018] [mpm_prefork:notice] [pid 714] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2l configured -- resuming normal operations
+[Thu May 24 10:56:32.294722 2018] [core:notice] [pid 714] AH00094: Command line: '/usr/sbin/apache2'
+[Thu May 24 13:59:28.053381 2018] [mpm_prefork:notice] [pid 714] AH00169: caught SIGTERM, shutting down
+[Tue May 29 10:49:57.952585 2018] [mpm_prefork:notice] [pid 709] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2l configured -- resuming normal operations
+[Tue May 29 10:49:58.027649 2018] [core:notice] [pid 709] AH00094: Command line: '/usr/sbin/apache2'
+[Tue May 29 13:56:34.891015 2018] [mpm_prefork:notice] [pid 709] AH00169: caught SIGTERM, shutting down
+[Wed May 30 10:54:53.896240 2018] [mpm_prefork:notice] [pid 780] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2l configured -- resuming normal operations
+[Wed May 30 10:54:53.952060 2018] [core:notice] [pid 780] AH00094: Command line: '/usr/sbin/apache2'
+[Wed May 30 13:59:25.397189 2018] [mpm_prefork:notice] [pid 780] AH00169: caught SIGTERM, shutting down
+[Thu May 31 11:09:23.818437 2018] [mpm_prefork:notice] [pid 742] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2l configured -- resuming normal operations
+[Thu May 31 11:09:24.179505 2018] [core:notice] [pid 742] AH00094: Command line: '/usr/sbin/apache2'
+[Thu May 31 13:59:10.070058 2018] [mpm_prefork:notice] [pid 742] AH00169: caught SIGTERM, shutting down
+[Fri Jun 01 11:25:57.218750 2018] [mpm_prefork:notice] [pid 764] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2l configured -- resuming normal operations
+[Fri Jun 01 11:25:57.245429 2018] [core:notice] [pid 764] AH00094: Command line: '/usr/sbin/apache2'
+[Fri Jun 01 13:56:47.516415 2018] [mpm_prefork:notice] [pid 764] AH00169: caught SIGTERM, shutting down
+[Mon Jun 04 10:52:35.285117 2018] [mpm_prefork:notice] [pid 763] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2l configured -- resuming normal operations
+[Mon Jun 04 10:52:35.354247 2018] [core:notice] [pid 763] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Jun 04 13:58:53.126632 2018] [mpm_prefork:notice] [pid 763] AH00169: caught SIGTERM, shutting down
+[Wed Jun 06 11:06:55.300438 2018] [mpm_prefork:notice] [pid 797] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2l configured -- resuming normal operations
+[Wed Jun 06 11:06:55.483651 2018] [core:notice] [pid 797] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Jun 06 11:34:03.354229 2018] [mpm_prefork:notice] [pid 797] AH00169: caught SIGTERM, shutting down
+[Wed Jun 06 11:50:10.659774 2018] [mpm_prefork:notice] [pid 792] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2l configured -- resuming normal operations
+[Wed Jun 06 11:50:10.715438 2018] [core:notice] [pid 792] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Jun 06 12:16:20.638314 2018] [mpm_prefork:notice] [pid 792] AH00169: caught SIGTERM, shutting down
+[Wed Jun 06 12:22:53.936379 2018] [mpm_prefork:notice] [pid 764] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2l configured -- resuming normal operations
+[Wed Jun 06 12:22:54.326598 2018] [core:notice] [pid 764] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Jun 06 12:35:54.350107 2018] [mpm_prefork:notice] [pid 754] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2l configured -- resuming normal operations
+[Wed Jun 06 12:35:54.566046 2018] [core:notice] [pid 754] AH00094: Command line: '/usr/sbin/apache2'

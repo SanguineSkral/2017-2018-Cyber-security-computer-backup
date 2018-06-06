@@ -1,0 +1,104 @@
+body {margin: 0; padding: 0;
+background-color: #CDF800;
+font-family:"Arial","sans-serif";color:#f0f;font-size:18px;
+}
+
+pre{
+ font-family:sans-serif;
+	font-size:18px;
+	background-color:#479C00;
+	color:#FFE800;
+}
+html{
+		font-family:sans-serif;
+		font-size:14px;
+	}
+a.slink{
+	display:inline-block;
+	font-family:sans-serif;
+	font-size:18px;
+	background-color:#69E800;
+	border-color: #AFD300;
+	border-style: solid;
+	padding: 2px 1px 3px 4px;
+	border-width: 5px 2px 1px 7px;
+	color:#837700;
+}
+a.slink:hover{
+	display:inline-block;
+	font-family:sans-serif;
+	font-size:18px;
+	background-color:#9617FF;
+	border-color: #502CFF;
+	border-style: solid;
+	padding: 5px 3px 1px 2px;
+	border-width: 7px 1px 2px 5px;
+	color:#7C88FF;
+}
+a.slink1{
+	display:inline-block;
+	font-family:sans-serif;
+	font-size:18px;
+	background-color:#69E800;
+	border-color: #AFD300;
+	border-style: solid;
+	padding: 5px 5px 5px 5px;
+	border-width: 5px 5px 5px 5px;
+	color:#837700;
+}
+a.slink1:hover{
+	display:inline-block;
+	font-family:sans-serif;
+	font-size:18px;
+	background-color:#357500;
+	border-color: #DBC700;
+	border-style: solid;
+	padding: 5px 5px 5px 5px;
+	border-width: 5px 5px 5px 5px;
+	color:#1F4400;
+}
+a.menu1{
+	display:inline-block;
+	font-family:sans-serif;
+	font-size:18px;
+	background-color:#357500;
+	border-color: #DBC700;
+	border-style: solid;
+	padding: 5px 5px 5px 5px;
+	border-width: 5px 5px 5px 5px;
+	color:#1F4400;
+}
+a.menu1:hover{
+	font-family:sans-serif;
+	font-size:18px;
+	background-color:#69E800;
+	border-color: #AFD300;
+	border-style: solid;
+	padding: 5px 5px 5px 5px;
+	border-width: 5px 5px 5px 5px;
+	color:#837700;
+}
+
+
+
+a.menu{
+	display:inline-block;
+	font-family:sans-serif;
+	font-size:18px;
+	background-color:#357500;
+	border-color: #DBC700;
+	border-style: solid;
+	padding: 1px 4px 6px 4px;
+	border-width: 3px 4px 6px 1px;
+	color:#1F4400;
+}
+a.menu:hover{
+	font-family:sans-serif;
+	font-size:18px;
+	background-color:#CA8AFF;
+	border-color: #2438FF;
+	border-style: solid;
+	padding: 7px 2px 4px 5px;
+	border-width: 1px 7px 3px 2px;
+	color:#E0BBFF;
+}
